@@ -1,7 +1,0 @@
----
-title: "About me"
----
-
-My name is Marco Polo Bravo Montiel (the first two names are considered to be my "first name", while the last two are considered to be my "last name") and I'm 26 years old. I come from Puebla, a beautiful city located in the center of Mexico, my beloved homeland. I graduated from Universidad de las Américas Puebla (UDLAP), presumably, the best Mexican university (please don't tell Alexi, haha). I did my undergrad in Actuarial Sciences and I have currently passed 3 SOA exams (P, FM and IFM). I also hold a Master's Degree in Corporate Finance from that same university. I've worked for over 7 years as State Co-Delegate for the Mexican Mathematical Olympiad. In the last two years I've worked as a Data Analyst/Junior Data Scientist, and I've been professor at UDLAP. 
-
-I don't know if other MDS students will actually visit this website in the coming days. However, this will definitely be read by a TA. Thank you for your hard work!

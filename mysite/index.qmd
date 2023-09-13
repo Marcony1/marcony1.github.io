@@ -1,7 +1,0 @@
----
-title: "Marco Polo Bravo Montiel - Master of Data Science"
----
-
-Welcome to my website. This website was created as part of the 521 lab2 assignment. Feel free to expore it!
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
