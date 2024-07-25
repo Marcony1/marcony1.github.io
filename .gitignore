@@ -154,6 +154,7 @@ cython_debug/
 
 # quarto
 /.quarto/
+/_site/
 
 
 # PyCharm

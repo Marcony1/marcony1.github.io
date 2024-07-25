@@ -1,0 +1,81 @@
+---
+title: "Resume"
+---
+
+# Resume
+
+You can download my [resume](resume.pdf).
+
+## Education
+### Master of Data Science
+**The University of British Columbia, Canada**  
+September 2023 – June 2024
+- Master of Data Science (Domestic/International) Scholarship awarded for academic and leadership achievements.
+- Current grade: 91%
+- Capstone Project: [Project DrillSense](https://github.com/Marcony1/dsensegif/blob/main/demo.gif) partnered with RioTinto. Created a dashboard to visualize global mining trends and incorporated ML predictive algorithms to identify future drillholes based on commodity, region, and other features.
+
+### Master’s Degree in Corporate Finance
+**Universidad de las Américas Puebla, Mexico**  
+June 2020 – December 2021
+- Summa Cum Laude, GPA 3.96
+- Institutional scholarship granted (60% of tuition covered)
+- Comprehensive Project: “Consulting and development of a business solution for a beauty products franchise that wants to expand in times of Covid”
+
+### Bachelor’s Degree in Actuarial Sciences
+**Universidad de las Américas Puebla, Mexico**  
+August 2016 – June 2020
+- Magna Cum Laude, GPA 3.92
+- School of Science Scholar Award for achieving the highest marks in 2019
+- Excellence scholarship granted (100% of tuition covered)
+
+## Experience
+### Data Scientist
+**DATAKNOW S.A.S., Mexico**  
+August 2022 – August 2023
+- Databases clustered to fight against money laundering and financing of terrorism as the law required it for various Grupo Bancolombia bank entities.
+- Python Scripts developed ensuring reproducibility when used with future data.
+
+### Data Analyst
+**INDRA MINSAIT BUSINESS CONSULTING, Mexico**  
+February 2022 – July 2022
+- Cross Currency Swaps and Bonds’ hedging strategies identified, reconciliated between the bank’s storage systems and corrected.
+- Accounting entries cleaned and Roll Over reports automated on VBA following IFRS9 standards. Output folder established as a source for Salesforce and Murex to retrieve results.
+- Accounting rules in Murex homologated and updated in accordance with the new accounting structure of the bank.
+
+### Data Analyst (Internship)
+**Mexican Railways National Museum, Mexico**  
+June 2019 – March 2020
+- Museum statistics surveys for the National Institute of Statistics and Geography (INEGI) carried out and data analyzed.
+- VBA Userforms developed to automate survey data capture and uploading process to INEGI’s platform.
+- R script developed to periodically provide a standardized report with graphs and figures of the information contained in the Excel sheets.
+
+## Specialized Training
+- **Microsoft**: AZ-900 (Feb 2022)
+- **Society of Actuaries**: P (July 2020), FM (December 2020), IFM (November 2021), studying for SRM
+- **Informatica**: Cloud Data Integration (CDI) Partner Bootcamp Associate Certification (October 2022)
+
+## Technical Skills
+**Programming Languages**: Python, R, C, SQL, Power BI, Xpress IVE, Excel (Visual Basic), Murex, Salesforce, Informatica Cloud Data Integration  
+**Frameworks**: PyTorch, Hadoop  
+**Databases**: MySQL, MongoDB, PostgreSQL, Microsoft SQL Server  
+**Python Libraries**: Scikit-Learn, Pandas, NumPy, Spacy, PySpark, PyArrow, Matplotlib, SciPy, Seaborn, Altair, Bokeh, Pillow, NLTK, Flask, Plotly  
+**R Libraries**: Dplyr, Ggplot2, GGally, Shiny, Tidyr, Lattice, Knitr, Lubridate, Tidyverse  
+**Tools**: Jupyterlab, VS Code, RStudio, git, Docker  
+**Cloud Platforms**: Azure, AWS
+
+## Languages
+- **Spanish**: Mother tongue/native speaker
+- **English**: Fluent
+- **French**: Fluent
+- **German**: Conversant
+
+## Awards
+**Math Olympiad Winner, Mexican Mathematical Olympiad**  
+2012 - 2015
+- Junior Olympiad Bronze Medal Winner in 2012 and 2013
+- Senior Olympiad Finalist in 2014 and 2015
+
+## Personal Projects
+**Smart home automation with Home Assistant open-source software and AWS**  
+2021
+- Deployed Home Assistant IoT ecosystem-independent platform as central control system for my smart home devices.
