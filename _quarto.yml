@@ -13,7 +13,12 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#333333"
+    linkcolor: "#0056b3"
+    monofont: courier new
     css: styles.css
     toc: true
 
