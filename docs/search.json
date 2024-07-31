@@ -4,56 +4,56 @@
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "You can download my resume.\n\n\n\n\nThe University of British Columbia, Canada\nSeptember 2023 – June 2024 - Master of Data Science (Domestic/International) Scholarship awarded for academic and leadership achievements. - Current grade: 91% - Capstone Project: Project DrillSense partnered with RioTinto. Created a dashboard to visualize global mining trends and incorporated ML predictive algorithms to identify future drillholes based on commodity, region, and other features.\n\n\n\nUniversidad de las Américas Puebla, Mexico\nJune 2020 – December 2021 - Summa Cum Laude, GPA 3.96 - Institutional scholarship granted (60% of tuition covered) - Comprehensive Project: “Consulting and development of a business solution for a beauty products franchise that wants to expand in times of Covid”\n\n\n\nUniversidad de las Américas Puebla, Mexico\nAugust 2016 – June 2020 - Magna Cum Laude, GPA 3.92 - School of Science Scholar Award for achieving the highest marks in 2019 - Excellence scholarship granted (100% of tuition covered)\n\n\n\n\n\n\nDATAKNOW S.A.S., Mexico\nAugust 2022 – August 2023 - Databases clustered to fight against money laundering and financing of terrorism as the law required it for various Grupo Bancolombia bank entities. - Python Scripts developed ensuring reproducibility when used with future data.\n\n\n\nINDRA MINSAIT BUSINESS CONSULTING, Mexico\nFebruary 2022 – July 2022 - Cross Currency Swaps and Bonds’ hedging strategies identified, reconciliated between the bank’s storage systems and corrected. - Accounting entries cleaned and Roll Over reports automated on VBA following IFRS9 standards. Output folder established as a source for Salesforce and Murex to retrieve results. - Accounting rules in Murex homologated and updated in accordance with the new accounting structure of the bank.\n\n\n\nMexican Railways National Museum, Mexico\nJune 2019 – March 2020 - Museum statistics surveys for the National Institute of Statistics and Geography (INEGI) carried out and data analyzed. - VBA Userforms developed to automate survey data capture and uploading process to INEGI’s platform. - R script developed to periodically provide a standardized report with graphs and figures of the information contained in the Excel sheets.\n\n\n\n\n\nMicrosoft: AZ-900 (Feb 2022)\nSociety of Actuaries: P (July 2020), FM (December 2020), IFM (November 2021), studying for SRM\nInformatica: Cloud Data Integration (CDI) Partner Bootcamp Associate Certification (October 2022)\n\n\n\n\nProgramming Languages: Python, R, C, SQL, Power BI, Xpress IVE, Excel (Visual Basic), Murex, Salesforce, Informatica Cloud Data Integration\nFrameworks: PyTorch, Hadoop\nDatabases: MySQL, MongoDB, PostgreSQL, Microsoft SQL Server\nPython Libraries: Scikit-Learn, Pandas, NumPy, Spacy, PySpark, PyArrow, Matplotlib, SciPy, Seaborn, Altair, Bokeh, Pillow, NLTK, Flask, Plotly\nR Libraries: Dplyr, Ggplot2, GGally, Shiny, Tidyr, Lattice, Knitr, Lubridate, Tidyverse\nTools: Jupyterlab, VS Code, RStudio, git, Docker\nCloud Platforms: Azure, AWS\n\n\n\n\nSpanish: Mother tongue/native speaker\nEnglish: Fluent\nFrench: Fluent\nGerman: Conversant\n\n\n\n\nMath Olympiad Winner, Mexican Mathematical Olympiad\n2012 - 2015 - Junior Olympiad Bronze Medal Winner in 2012 and 2013 - Senior Olympiad Finalist in 2014 and 2015\n\n\n\nSmart home automation with Home Assistant open-source software and AWS\n2021 - Deployed Home Assistant IoT ecosystem-independent platform as central control system for my smart home devices."
+    "text": "You can download my resume."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Resume",
-    "section": "",
-    "text": "The University of British Columbia, Canada\nSeptember 2023 – June 2024 - Master of Data Science (Domestic/International) Scholarship awarded for academic and leadership achievements. - Current grade: 91% - Capstone Project: Project DrillSense partnered with RioTinto. Created a dashboard to visualize global mining trends and incorporated ML predictive algorithms to identify future drillholes based on commodity, region, and other features.\n\n\n\nUniversidad de las Américas Puebla, Mexico\nJune 2020 – December 2021 - Summa Cum Laude, GPA 3.96 - Institutional scholarship granted (60% of tuition covered) - Comprehensive Project: “Consulting and development of a business solution for a beauty products franchise that wants to expand in times of Covid”\n\n\n\nUniversidad de las Américas Puebla, Mexico\nAugust 2016 – June 2020 - Magna Cum Laude, GPA 3.92 - School of Science Scholar Award for achieving the highest marks in 2019 - Excellence scholarship granted (100% of tuition covered)"
+    "section": "Education",
+    "text": "Education\n\nMaster of Data Science\nThe University of British Columbia, Canada\nSeptember 2023 – June 2024\n- Master of Data Science (Domestic/International) Scholarship awarded for academic and leadership achievements. - GPA: 91% - Capstone Project: Project DrillSense partnered with RioTinto. Created a dashboard with Dash library and GIS to visualize global mining trends and incorporated ML predictive algorithms (Random Forest was selected in the end) to identify future drillholes based on commodity, region, and other features.\n\n\nMaster’s Degree in Corporate Finance\nUniversidad de las Américas Puebla, Mexico\nJune 2020 – December 2021\n- Specialization in Business Financial Management - Summa Cum Laude, GPA 3.96/4.00 - Institutional scholarship granted (60% of tuition covered) - Comprehensive Project: “Consulting and development of a business solution for a beauty products franchise that wants to expand in times of Covid”\n\n\nBachelor’s Degree in Actuarial Sciences\nUniversidad de las Américas Puebla, Mexico\nAugust 2016 – June 2020\n- Magna Cum Laude, GPA 3.92/4.00 - School of Science Scholar Award for achieving the highest marks in 2019 - Excellence scholarship granted (100% of tuition covered)"
   },
   {
     "objectID": "resume.html#experience",
     "href": "resume.html#experience",
     "title": "Resume",
-    "section": "",
-    "text": "DATAKNOW S.A.S., Mexico\nAugust 2022 – August 2023 - Databases clustered to fight against money laundering and financing of terrorism as the law required it for various Grupo Bancolombia bank entities. - Python Scripts developed ensuring reproducibility when used with future data.\n\n\n\nINDRA MINSAIT BUSINESS CONSULTING, Mexico\nFebruary 2022 – July 2022 - Cross Currency Swaps and Bonds’ hedging strategies identified, reconciliated between the bank’s storage systems and corrected. - Accounting entries cleaned and Roll Over reports automated on VBA following IFRS9 standards. Output folder established as a source for Salesforce and Murex to retrieve results. - Accounting rules in Murex homologated and updated in accordance with the new accounting structure of the bank.\n\n\n\nMexican Railways National Museum, Mexico\nJune 2019 – March 2020 - Museum statistics surveys for the National Institute of Statistics and Geography (INEGI) carried out and data analyzed. - VBA Userforms developed to automate survey data capture and uploading process to INEGI’s platform. - R script developed to periodically provide a standardized report with graphs and figures of the information contained in the Excel sheets."
+    "section": "Experience",
+    "text": "Experience\n\nData Scientist\nDATAKNOW S.A.S., Mexico\nAugust 2022 – August 2023\n- Clustered databases with ML (k-means, k-prototypes, DBSCAN, etc.) to combat money laundering and financing of terrorism by profiling customers and identifying revealing insights as required by Colombian law for various Grupo Bancolombia bank entities. - Developed Python scripts, pipelines, and workflows to ensure the reproducibility of the best models identified for future use.\n\n\nData Analyst\nINDRA MINSAIT BUSINESS CONSULTING, Mexico\nFebruary 2022 – July 2022\n- Identified, reconciled, and corrected Cross Currency Swaps and Bonds’ hedging strategies between the bank’s storage systems. - Automated Roll Over reports in VBA following IFRS9 standards, creating an output folder as a source for Salesforce and Murex to retrieve results. - Homologated and updated accounting rules in Murex to align with the new accounting structure of the bank.\n\n\nData Analyst (Internship)\nMexican Railways National Museum, Mexico\nJune 2019 – March 2020\n- Conducted and analyzed museum statistics surveys for the National Institute of Statistics and Geography (INEGI). - Developed VBA Userforms to automate the survey data capture and uploading process to INEGI’s platform. - Created and periodically tuned an R script to generate standardized reports with graphs, figures, and insights from Excel data."
   },
   {
     "objectID": "resume.html#specialized-training",
     "href": "resume.html#specialized-training",
     "title": "Resume",
-    "section": "",
-    "text": "Microsoft: AZ-900 (Feb 2022)\nSociety of Actuaries: P (July 2020), FM (December 2020), IFM (November 2021), studying for SRM\nInformatica: Cloud Data Integration (CDI) Partner Bootcamp Associate Certification (October 2022)"
+    "section": "Specialized Training",
+    "text": "Specialized Training\n\nMicrosoft: AZ-900 (Feb 2022)\n\nSociety of Actuaries: P (July 2020), FM (December 2020), IFM (November 2021), studying for SRM\n\nInformatica: Cloud Data Integration (CDI) Partner Bootcamp Associate Certification (October 2022)"
   },
   {
     "objectID": "resume.html#technical-skills",
     "href": "resume.html#technical-skills",
     "title": "Resume",
-    "section": "",
-    "text": "Programming Languages: Python, R, C, SQL, Power BI, Xpress IVE, Excel (Visual Basic), Murex, Salesforce, Informatica Cloud Data Integration\nFrameworks: PyTorch, Hadoop\nDatabases: MySQL, MongoDB, PostgreSQL, Microsoft SQL Server\nPython Libraries: Scikit-Learn, Pandas, NumPy, Spacy, PySpark, PyArrow, Matplotlib, SciPy, Seaborn, Altair, Bokeh, Pillow, NLTK, Flask, Plotly\nR Libraries: Dplyr, Ggplot2, GGally, Shiny, Tidyr, Lattice, Knitr, Lubridate, Tidyverse\nTools: Jupyterlab, VS Code, RStudio, git, Docker\nCloud Platforms: Azure, AWS"
+    "section": "Technical Skills",
+    "text": "Technical Skills\nProgramming Languages: Python, R, C, SQL, Power BI, Xpress IVE, Excel (Visual Basic), Murex, Salesforce, Informatica Cloud Data Integration\nFrameworks: PyTorch, Hadoop\nDatabases: MySQL, MongoDB, PostgreSQL, Microsoft SQL Server\nPython Libraries: Scikit-Learn, Pandas, NumPy, Spacy, PySpark, PyArrow, Matplotlib, SciPy, Seaborn, Altair, Bokeh, Pillow, NLTK, Flask, Plotly\nR Libraries: Dplyr, Ggplot2, GGally, Shiny, Tidyr, Lattice, Knitr, Lubridate, Tidyverse\nTools: JupyterLab, VS Code, RStudio, Git, Docker\nCloud Platforms: Azure, AWS"
   },
   {
     "objectID": "resume.html#languages",
     "href": "resume.html#languages",
     "title": "Resume",
-    "section": "",
-    "text": "Spanish: Mother tongue/native speaker\nEnglish: Fluent\nFrench: Fluent\nGerman: Conversant"
+    "section": "Languages",
+    "text": "Languages\n\nSpanish: Native speaker\n\nEnglish: Fluent\n\nFrench: Fluent\n\nGerman: Conversant"
   },
   {
     "objectID": "resume.html#awards",
     "href": "resume.html#awards",
     "title": "Resume",
-    "section": "",
-    "text": "Math Olympiad Winner, Mexican Mathematical Olympiad\n2012 - 2015 - Junior Olympiad Bronze Medal Winner in 2012 and 2013 - Senior Olympiad Finalist in 2014 and 2015"
+    "section": "Awards",
+    "text": "Awards\nMath Olympiad Winner, Mexican Mathematical Olympiad\n2012 - 2015\n- Junior Olympiad Bronze Medal Winner in 2012 and 2013\n- Senior Olympiad Finalist in 2014 and 2015"
   },
   {
     "objectID": "resume.html#personal-projects",
     "href": "resume.html#personal-projects",
     "title": "Resume",
-    "section": "",
-    "text": "Smart home automation with Home Assistant open-source software and AWS\n2021 - Deployed Home Assistant IoT ecosystem-independent platform as central control system for my smart home devices."
+    "section": "Personal Projects",
+    "text": "Personal Projects\nSmart home automation with Home Assistant open-source software and AWS\n2021\n- Created a local server with a Raspberry Pi and configured Home Assistant open-source software to control smart home devices locally without proprietary apps. - Developed an AWS Lambda function to connect Alexa with the local ecosystem for voice control of smart devices.\nAndroid devices personalization and data extraction\n- Enabled Google Services on unsupported devices (e.g., Huawei P40/Huawei P40 Pro).\n- Extracted stored WiFi credentials from Android devices without rooting them via data mining."
   },
   {
     "objectID": "about.html",
@@ -65,8 +65,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Marco Polo Bravo Montiel - Master of Data Science",
+    "title": "Marco Polo Bravo Montiel",
     "section": "",
-    "text": "Welcome to my website. This website was created as part of the 521 lab2 assignment. Feel free to expore it!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Master of Data Science | M.Sc. in Corporate Finance | B.Sc. in Actuarial Sciences\n\n\nMarco Bravo graduated from the Master of Data Science programme at The University of British Columbia. He has extensive experience as a Data Scientist and Data Analyst, specializing in predictive modeling, data visualization, and the application of machine learning in the financial and mining industries. Marco is passionate about leveraging data to solve complex real-world problems and has a strong background in actuarial science and corporate finance.\n\n\n\n\nData Science\nMachine Learning\nFinancial Modeling\nData Visualization\nRisk\nProbability and Statistics\n\n\n\n\nMaster of Data Science, University of British Columbia, Canada | September 2023 – June 2024\nGPA: 91%\n- Scholarship: Awarded the Master of Data Science (Domestic/International) Scholarship for academic and leadership achievements. - Capstone Project: Project DrillSense with RioTinto, developed a dashboard for visualizing global mining trends and applied ML algorithms to predict future drillholes. Demo\nMaster’s Degree in Corporate Finance, Universidad de las Américas Puebla, Mexico | June 2020 – December 2021\nGPA: 3.96/4.00, Summa Cum Laude\n- Specialization: Business Financial Management. - Scholarship: Institutional scholarship covering 60% of tuition. - Comprehensive Project: Developed a business solution for a beauty products franchise during Covid.\nBachelor’s Degree in Actuarial Sciences, Universidad de las Américas Puebla, Mexico | August 2016 – June 2020\nGPA: 3.92/4.00, Magna Cum Laude\n- Award: School of Science Scholar for highest marks in 2019. - Scholarship: Excellence scholarship covering 100% of tuitio\n\n\n\nData Scientist (Internship), Rio Tinto | Vancouver, BC | May 2024 – June 2024\n- Developed a dashboard to visualize global mining trends. - Implemented ML algorithms to predict future drillholes. - Skills: Python, Data Visualization, Geodata, Mining Analytics.\nData Scientist, DATAKNOW S.A.S. | Mexico City, Mexico | July 2022 – August 2023\n- Clustered financial data using ML tools for Grupo Bancolombia to ensure compliance with SARLAFT regulations. - Developed Python scripts and workflows to maintain model reproducibility. - Skills: R, Python, Data Analysis, Machine Learning, Hadoop, Apache Impala.\nAssistant Teacher | Team Leader | Co-Delegate, Olimpiada Mexicana de Matemáticas | Puebla, Mexico | December 2015 – August 2023\n- Conducted advanced mathematics courses and master classes for contestants. - Led teams in national competitions. - Participated in teaching workshops. - Skills: Leadership, Trustworthiness, Communication.\nLecturer, Universidad de las Américas Puebla | San Andrés Cholula, Mexico | January 2023 – May 2023\n- Taught Actuarial Programming Tools to actuarial students. - Covered topics including Excel, VBA, MySQL, and collaborative programming. - Skills: Excel, VBA, MySQL, GitHub, Presentation Skills.\nData Analyst, Minsait | Mexico City, Mexico | February 2022 – August 2022\n- Automated financial processes and developed valuation calculators for Banorte. - Validated and corrected hedging strategies in accounting books. - Skills: Excel, VBA, Data Analysis, Scala, Murex.\nData Analyst (Internship), Mexican Railways National Museum | Puebla, Mexico | June 2019 – March 2020\n- Analyzed museum databases and automated data capture processes. - Developed an R script for reporting and analysis. - Skills: R, Excel, VBA, Presentation Skills.\n\n\n\n\nMicrosoft AZ-900 (Feb 2022)\nSociety of Actuaries: P, FM, IFM, studying for SRM\nInformatica CDI Partner Bootcamp Certification (Oct 2022)\n\n\n\n\nProgramming Languages: Python, R, C, SQL, VBA, Scala\nFrameworks & Libraries: PyTorch, Hadoop, Scikit-Learn, Pandas, NumPy, Spacy, PySpark, PyArrow, Matplotlib, SciPy, Seaborn, Altair, Bokeh, Pillow, NLTK, Flask, Plotly, Dplyr, Ggplot2, GGally, Shiny, Tidyr, Lattice, Knitr, Lubridate, Tidyverse\nDatabases: MySQL, MongoDB, PostgreSQL, Microsoft SQL Server\nTools & Platforms: JupyterLab, VS Code, RStudio, Git, Docker, Apache Impala, Murex, Salesforce, Informatica Cloud Data Integration, Microsoft Power BI\nCloud Platforms: Azure, AWS\n\n\n\n\nSpanish: Native\n\nEnglish: Fluent\n\nFrench: Fluent\n\nGerman: Conversant\n\n\n\n\n\nMath Olympiad Winner, Mexican Mathematical Olympiad | 2012 - 2015\n\nJunior Olympiad: Bronze Medal Winner (2012, 2013)\nSenior Olympiad: Finalist (2014, 2015)\n\n\n\n\n\n\nSmart Home Automation: Created an IoT ecosystem with Home Assistant and AWS.\nAndroid Devices Personalization: Enabled Google Services on unsupported devices.\n\n\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     resume"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Master of Data Science, University of British Columbia, Canada | September 2023 – June 2024\nGPA: 91%\n- Scholarship: Awarded the Master of Data Science (Domestic/International) Scholarship for academic and leadership achievements. - Capstone Project: Project DrillSense with RioTinto, developed a dashboard for visualizing global mining trends and applied ML algorithms to predict future drillholes. Demo\nMaster’s Degree in Corporate Finance, Universidad de las Américas Puebla, Mexico | June 2020 – December 2021\nGPA: 3.96/4.00, Summa Cum Laude\n- Specialization: Business Financial Management. - Scholarship: Institutional scholarship covering 60% of tuition. - Comprehensive Project: Developed a business solution for a beauty products franchise during Covid.\nBachelor’s Degree in Actuarial Sciences, Universidad de las Américas Puebla, Mexico | August 2016 – June 2020\nGPA: 3.92/4.00, Magna Cum Laude\n- Award: School of Science Scholar for highest marks in 2019. - Scholarship: Excellence scholarship covering 100% of tuitio"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Data Scientist (Internship), Rio Tinto | Vancouver, BC | May 2024 – June 2024\n- Developed a dashboard to visualize global mining trends. - Implemented ML algorithms to predict future drillholes. - Skills: Python, Data Visualization, Geodata, Mining Analytics.\nData Scientist, DATAKNOW S.A.S. | Mexico City, Mexico | July 2022 – August 2023\n- Clustered financial data using ML tools for Grupo Bancolombia to ensure compliance with SARLAFT regulations. - Developed Python scripts and workflows to maintain model reproducibility. - Skills: R, Python, Data Analysis, Machine Learning, Hadoop, Apache Impala.\nAssistant Teacher | Team Leader | Co-Delegate, Olimpiada Mexicana de Matemáticas | Puebla, Mexico | December 2015 – August 2023\n- Conducted advanced mathematics courses and master classes for contestants. - Led teams in national competitions. - Participated in teaching workshops. - Skills: Leadership, Trustworthiness, Communication.\nLecturer, Universidad de las Américas Puebla | San Andrés Cholula, Mexico | January 2023 – May 2023\n- Taught Actuarial Programming Tools to actuarial students. - Covered topics including Excel, VBA, MySQL, and collaborative programming. - Skills: Excel, VBA, MySQL, GitHub, Presentation Skills.\nData Analyst, Minsait | Mexico City, Mexico | February 2022 – August 2022\n- Automated financial processes and developed valuation calculators for Banorte. - Validated and corrected hedging strategies in accounting books. - Skills: Excel, VBA, Data Analysis, Scala, Murex.\nData Analyst (Internship), Mexican Railways National Museum | Puebla, Mexico | June 2019 – March 2020\n- Analyzed museum databases and automated data capture processes. - Developed an R script for reporting and analysis. - Skills: R, Excel, VBA, Presentation Skills."
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Marco Bravo graduated from the Master of Data Science programme at The University of British Columbia. He has extensive experience as a Data Scientist and Data Analyst, specializing in predictive modeling, data visualization, and the application of machine learning in the financial and mining industries. Marco is passionate about leveraging data to solve complex real-world problems and has a strong background in actuarial science and corporate finance."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Data Science\nMachine Learning\nFinancial Modeling\nData Visualization\nRisk\nProbability and Statistics"
+  },
+  {
+    "objectID": "index.html#specialized-training",
+    "href": "index.html#specialized-training",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Microsoft AZ-900 (Feb 2022)\nSociety of Actuaries: P, FM, IFM, studying for SRM\nInformatica CDI Partner Bootcamp Certification (Oct 2022)"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Programming Languages: Python, R, C, SQL, VBA, Scala\nFrameworks & Libraries: PyTorch, Hadoop, Scikit-Learn, Pandas, NumPy, Spacy, PySpark, PyArrow, Matplotlib, SciPy, Seaborn, Altair, Bokeh, Pillow, NLTK, Flask, Plotly, Dplyr, Ggplot2, GGally, Shiny, Tidyr, Lattice, Knitr, Lubridate, Tidyverse\nDatabases: MySQL, MongoDB, PostgreSQL, Microsoft SQL Server\nTools & Platforms: JupyterLab, VS Code, RStudio, Git, Docker, Apache Impala, Murex, Salesforce, Informatica Cloud Data Integration, Microsoft Power BI\nCloud Platforms: Azure, AWS"
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Spanish: Native\n\nEnglish: Fluent\n\nFrench: Fluent\n\nGerman: Conversant"
+  },
+  {
+    "objectID": "index.html#awards",
+    "href": "index.html#awards",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Math Olympiad Winner, Mexican Mathematical Olympiad | 2012 - 2015\n\nJunior Olympiad: Bronze Medal Winner (2012, 2013)\nSenior Olympiad: Finalist (2014, 2015)"
+  },
+  {
+    "objectID": "index.html#personal-projects",
+    "href": "index.html#personal-projects",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Smart Home Automation: Created an IoT ecosystem with Home Assistant and AWS.\nAndroid Devices Personalization: Enabled Google Services on unsupported devices."
   }
 ]
