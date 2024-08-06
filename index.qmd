@@ -24,7 +24,9 @@ about:
 :::{#marco-heading}
 
 ## Biography
+<div style="text-align: justify;">
 Marco Bravo graduated from the Master of Data Science programme at The University of British Columbia. He has extensive experience as a Data Scientist and Data Analyst, specializing in predictive modeling, data visualization, and the application of machine learning in the financial and mining industries. Marco is passionate about leveraging data to solve complex real-world problems and has a strong background in actuarial science and corporate finance.
+</div>
 
 :::: columns
 
