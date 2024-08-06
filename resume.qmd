@@ -3,7 +3,7 @@ title: "Resume"
 resources: resume.pdf
 ---
 
-You can download my resume[here](resume.pdf).
+You can download my resume [here](resume.pdf).
 
 ## Education
 
