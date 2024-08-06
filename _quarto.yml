@@ -41,7 +41,6 @@ format:
       dark: [flatly, theme_dark_custom.scss]
     code-link: true
     code-fold: show
-    code-tools: true
     highlight-style: github
     mainfont: arial
     fontsize: 1.5rem
