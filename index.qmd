@@ -15,7 +15,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/marco-bravom/
-    - text: resume
+    - text: Resume
       icon: file-text
       href: resume.pdf
 ---
