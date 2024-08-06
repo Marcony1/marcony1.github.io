@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Marco Bravo"
+  favicon: "images/profile.jpg"
   search: 
     location: navbar
     type: textbox
@@ -31,6 +32,9 @@ format:
       light: flatly
       dark: [flatly, theme_dark_custom.scss]
     code-link: true
+    code-fold: show
+    code-tools: true
+    highlight-style: github
     mainfont: arial
     fontsize: 1.5rem
     monofont: courier new
