@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Marco Bravo"
-  favicon: "images/favicon.png"
+  favicon: "images/favicon.jpg"
   search: 
     location: navbar
     type: textbox
