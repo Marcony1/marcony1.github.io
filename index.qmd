@@ -5,6 +5,7 @@ about:
   id: marco-heading
   template: jolla
   image: images/profile.jpg
+  image-shape: round
   links:
     - text: Email
       icon: envelope
@@ -22,93 +23,52 @@ about:
 
 :::{#marco-heading}
 
-Master of Data Science | M.Sc. in Corporate Finance | B.Sc. in Actuarial Sciences
-
 ## Biography
 Marco Bravo graduated from the Master of Data Science programme at The University of British Columbia. He has extensive experience as a Data Scientist and Data Analyst, specializing in predictive modeling, data visualization, and the application of machine learning in the financial and mining industries. Marco is passionate about leveraging data to solve complex real-world problems and has a strong background in actuarial science and corporate finance.
 
+:::: columns
+
+::: {.column width="30%"}
 ## Interests
+<div class="interests-education">
 - Data Science
 - Machine Learning
 - Financial Modeling
 - Data Visualization
 - Risk
 - Probability and Statistics
+</div>
+:::
 
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
 ## Education
-**Master of Data Science**, University of British Columbia, Canada | September 2023 – June 2024  
-GPA: 91%  
-- **Scholarship:** Awarded the Master of Data Science (Domestic/International) Scholarship for academic and leadership achievements.
-- **Capstone Project:** Project DrillSense with RioTinto, developed a dashboard for visualizing global mining trends and applied ML algorithms to predict future drillholes. [Demo](https://github.com/Marcony1/dsensegif/blob/main/demo.gif)
+<div class="interests-education">
+### <span class="degree">Master of Data Science, 2024</span>
+**<span class="university">The University of British Columbia, Canada</span>**
 
-**Master’s Degree in Corporate Finance**, Universidad de las Américas Puebla, Mexico | June 2020 – December 2021  
-GPA: 3.96/4.00, Summa Cum Laude  
-- **Specialization:** Business Financial Management.
-- **Scholarship:** Institutional scholarship covering 60% of tuition.
-- **Comprehensive Project:** Developed a business solution for a beauty products franchise during Covid.
+### <span class="degree">Master’s Degree in Corporate Finance, 2021</span>
+**<span class="university">Universidad de las Américas Puebla, Mexico</span>** 
+<div class="specialization">
+- Specialization in Business Financial Management
+</div>
 
-**Bachelor’s Degree in Actuarial Sciences**, Universidad de las Américas Puebla, Mexico | August 2016 – June 2020  
-GPA: 3.92/4.00, Magna Cum Laude  
-- **Award:** School of Science Scholar for highest marks in 2019.
-- **Scholarship:** Excellence scholarship covering 100% of tuitio
 
-## Experience
-**Data Scientist (Internship)**, Rio Tinto | Vancouver, BC | May 2024 – June 2024  
-- Developed a dashboard to visualize global mining trends.
-- Implemented ML algorithms to predict future drillholes.
-- Skills: Python, Data Visualization, Geodata, Mining Analytics.
+### <span class="degree">Bachelor’s Degree in Actuarial Sciences, 2020</span>
+**<span class="university">Universidad de las Américas Puebla, Mexico</span>**
 
-**Data Scientist**, DATAKNOW S.A.S. | Mexico City, Mexico | July 2022 – August 2023  
-- Clustered financial data using ML tools for Grupo Bancolombia to ensure compliance with SARLAFT regulations.
-- Developed Python scripts and workflows to maintain model reproducibility.
-- Skills: R, Python, Data Analysis, Machine Learning, Hadoop, Apache Impala.
+### <span class="degree">Society of Actuaries (SOA)</span>
+<div class="exams">
+- Exam P
+- Exam FM
+- Exam IFM
+</div>
+</div> 
+:::
 
-**Assistant Teacher | Team Leader | Co-Delegate**, Olimpiada Mexicana de Matemáticas | Puebla, Mexico | December 2015 – August 2023  
-- Conducted advanced mathematics courses and master classes for contestants.
-- Led teams in national competitions.
-- Participated in teaching workshops.
-- Skills: Leadership, Trustworthiness, Communication.
+::::
 
-**Lecturer**, Universidad de las Américas Puebla | San Andrés Cholula, Mexico | January 2023 – May 2023  
-- Taught Actuarial Programming Tools to actuarial students.
-- Covered topics including Excel, VBA, MySQL, and collaborative programming.
-- Skills: Excel, VBA, MySQL, GitHub, Presentation Skills.
-
-**Data Analyst**, Minsait | Mexico City, Mexico | February 2022 – August 2022  
-- Automated financial processes and developed valuation calculators for Banorte.
-- Validated and corrected hedging strategies in accounting books.
-- Skills: Excel, VBA, Data Analysis, Scala, Murex.
-
-**Data Analyst (Internship)**, Mexican Railways National Museum | Puebla, Mexico | June 2019 – March 2020  
-- Analyzed museum databases and automated data capture processes.
-- Developed an R script for reporting and analysis.
-- Skills: R, Excel, VBA, Presentation Skills.
-
-## Specialized Training
-- Microsoft AZ-900 (Feb 2022)
-- Society of Actuaries: P, FM, IFM, studying for SRM
-- Informatica CDI Partner Bootcamp Certification (Oct 2022)
-
-## Technical Skills
-**Programming Languages:** Python, R, C, SQL, VBA, Scala  
-**Frameworks & Libraries:** PyTorch, Hadoop, Scikit-Learn, Pandas, NumPy, Spacy, PySpark, PyArrow, Matplotlib, SciPy, Seaborn, Altair, Bokeh, Pillow, NLTK, Flask, Plotly, Dplyr, Ggplot2, GGally, Shiny, Tidyr, Lattice, Knitr, Lubridate, Tidyverse  
-**Databases:** MySQL, MongoDB, PostgreSQL, Microsoft SQL Server  
-**Tools & Platforms:** JupyterLab, VS Code, RStudio, Git, Docker, Apache Impala, Murex, Salesforce, Informatica Cloud Data Integration, Microsoft Power BI  
-**Cloud Platforms:** Azure, AWS
-
-## Languages
-- **Spanish:** Native  
-- **English:** Fluent  
-- **French:** Fluent  
-- **German:** Conversant
-
-## Awards
-- **Math Olympiad Winner**, Mexican Mathematical Olympiad | 2012 - 2015  
-  - **Junior Olympiad:** Bronze Medal Winner (2012, 2013)
-  - **Senior Olympiad:** Finalist (2014, 2015)
-
-## Personal Projects
-- **Smart Home Automation:** Created an IoT ecosystem with Home Assistant and AWS.
-- **Android Devices Personalization:** Enabled Google Services on unsupported devices.
 
 :::
