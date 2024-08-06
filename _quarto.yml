@@ -8,6 +8,14 @@ website:
   search: 
     location: navbar
     type: textbox
+  page-footer:
+    center: |
+      [Contact Marco Bravo](mailto:marcop.bravom@gmail.com)
+    left: |
+      Made with [Quarto](https://quarto.org/)
+    right: |
+      [Github Code Repo](https://github.com/Marcony1/marcony1.github.io)
+    background: "#2d3e50"
   navbar:
     left:
       - text: Home
