@@ -4,7 +4,7 @@ resources: resume.pdf
 about:
   id: marco-heading
   template: jolla
-  image: profile.jpg
+  image: images/profile.jpg
   links:
     - text: Email
       icon: envelope

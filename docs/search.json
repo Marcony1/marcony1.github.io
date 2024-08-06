@@ -131,5 +131,40 @@
     "title": "Marco Polo Bravo Montiel",
     "section": "",
     "text": "Smart Home Automation: Created an IoT ecosystem with Home Assistant and AWS.\nAndroid Devices Personalization: Enabled Google Services on unsupported devices."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Sample project\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nMe\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#repositories",
+    "href": "projects.html#repositories",
+    "title": "Projects",
+    "section": "",
+    "text": "&lt;a href=\"https://github.com/your-repository-url-1\" target=\"_blank\"&gt;\n  &lt;img src=\"path/to/your/image1.png\" alt=\"Repository 1\"&gt;\n  &lt;h3&gt;Repository Title 1&lt;/h3&gt;\n  &lt;p&gt;Description for Repository 1&lt;/p&gt;\n&lt;/a&gt;"
+  },
+  {
+    "objectID": "projects.html#videos",
+    "href": "projects.html#videos",
+    "title": "Projects",
+    "section": "",
+    "text": "&lt;a href=\"https://youtube.com/your-video-url-1\" target=\"_blank\"&gt;\n  &lt;img src=\"path/to/your/video-thumbnail1.png\" alt=\"Video 1\"&gt;\n  &lt;h3&gt;Video Title 1&lt;/h3&gt;\n  &lt;p&gt;Description for Video 1&lt;/p&gt;\n&lt;/a&gt;"
+  },
+  {
+    "objectID": "projects.html#demos",
+    "href": "projects.html#demos",
+    "title": "Projects",
+    "section": "",
+    "text": "&lt;a href=\"https://your-demo-url-1\" target=\"_blank\"&gt;\n  &lt;img src=\"path/to/your/demo-thumbnail1.png\" alt=\"Demo 1\"&gt;\n  &lt;h3&gt;Demo Title 1&lt;/h3&gt;\n  &lt;p&gt;Description for Demo 1&lt;/p&gt;\n&lt;/a&gt;"
+  },
+  {
+    "objectID": "posts/sample_post/sample_proj.html",
+    "href": "posts/sample_post/sample_proj.html",
+    "title": "Sample project",
+    "section": "",
+    "text": "This is a sample project."
   }
 ]

@@ -4,19 +4,35 @@ project:
 
 website:
   title: "Marco Bravo"
+  search: 
+    location: navbar
+    type: textbox
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - resume.qmd
+      - text: Home
+        href: index.qmd
+      - text: Resume
+        href: resume.qmd
+      - text: Projects
+        href: projects.qmd
+        
+    right:
+      - icon: github
+        href: https://github.com/Marcony1
+      - icon: linkedin
+        href: https://www.linkedin.com/in/marco-bravom/
+      - icon: envelope
+        href: mailto:marcop.bravom@gmail.com
+     
 
 format:
   html:
-    theme: flatly
+    theme: 
+      light: flatly
+      dark: [flatly, theme_dark_custom.scss]
+    code-link: true
     mainfont: arial
     fontsize: 1.5rem
-    fontcolor: "#333333"
-    linkcolor: "#0056b3"
     monofont: courier new
     css: styles.css
     toc: true
