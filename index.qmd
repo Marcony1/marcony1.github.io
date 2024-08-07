@@ -43,6 +43,13 @@ Immersed in diverse and multicultural environments, Marco has developed a broad 
 - Risk
 - Probability and Statistics
 </div>
+
+**<span class="degree">Society of Actuaries (SOA)</span>**
+<div class="exams">
+- Exam P
+- Exam FM
+- Exam IFM
+</div>
 :::
 
 ::: {.column width="5%"}
@@ -52,24 +59,19 @@ Immersed in diverse and multicultural environments, Marco has developed a broad 
 ## Education
 <div class="interests-education">
 **<span class="degree">Master of Data Science, 2024</span>**<br>
-**<span class="university">The University of British Columbia, Canada</span>**
+<span class="university">The University of British Columbia, Canada</span>
 
 **<span class="degree">Master’s Degree in Corporate Finance, 2021</span>**<br>
-**<span class="university">Universidad de las Américas Puebla, Mexico</span>** 
+<span class="university">Universidad de las Américas Puebla, Mexico</span>
 <div class="specialization">
 - Specialization in Business Financial Management
 </div>
 
 
 **<span class="degree">Bachelor’s Degree in Actuarial Sciences, 2020</span>**<br>
-**<span class="university">Universidad de las Américas Puebla, Mexico</span>**
+<span class="university">Universidad de las Américas Puebla, Mexico</span>
 
-**<span class="degree">Society of Actuaries (SOA)</span>**
-<div class="exams">
-- Exam P
-- Exam FM
-- Exam IFM
-</div>
+
 </div> 
 :::
 
