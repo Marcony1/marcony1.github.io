@@ -25,8 +25,8 @@ about:
 
 ## Biography
 <div style="text-align: justify;">
-Marco Bravo is a Data Scientist and Actuarial Consultant with three SOA exams passed. With extensive experience in banking, regulatory practices, predicting modeling, data visualization, reproducibility, mining and financial markets, Marco excels in understanding and addressing complex multidisciplinary real-world problems.<br><br>
-Having served as a state co-delegate in the Mexican Mathematical Olympiad and having lectured actuarial sciences undergraduate students at Universidad de las Américas Puebla, Marco has cultivated a passion for making high level topics accessible to diverse audiences. Combined with his strong technical communication skills, he has been able to effectively convey critical insights to the stakeholders involved in every project he undertakes.<br><br>
+Marco Bravo is a Data Scientist and Actuarial Consultant with three [SOA](https://www.soa.org/) exams passed. With extensive experience in banking, regulatory practices, predicting modeling, data visualization, reproducibility, mining and financial markets, Marco excels in understanding and addressing complex multidisciplinary real-world problems.<br><br>
+Having served as a state co-delegate in the [Mexican Mathematical Olympiad](https://www.ommenlinea.org/) and having lectured actuarial sciences undergraduate students at [Universidad de las Américas Puebla](https://www.udlap.mx/web/en/), Marco has cultivated a passion for making high level topics accessible to diverse audiences. Combined with his strong technical communication skills, he has been able to effectively convey critical insights to the stakeholders involved in every project he undertakes.<br><br>
 Immersed in diverse and multicultural environments, Marco has developed a broad perspective that enriches his work. His lifelong pursuit of knowledge has made him fluent in Spanish, English and French with a foundational understanding of German.
 
 </div>
