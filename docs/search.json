@@ -137,7 +137,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Project Drillsense\n\n\n\ncode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nMining\n\n\nGeojson\n\n\nPrediction\n\n\nMachine Learning\n\n\nTime Series\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Aishwarya Nadimpally, Anu Banga, Weiran Zhao\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Mexico Census\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nActuarial\n\n\nPopulation\n\n\nGeojson\n\n\nRShiny\n\n\n\n\n\n\n\nMarco Bravo\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolar Savers\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nSunlight\n\n\nGeojson\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Nicole Bidwell, Rafe Chang, Sam Fo\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Bank Marketing Success on Term Deposit Subscription\n\n\n\nBanking\n\n\nAnalysis\n\n\nVisualization\n\n\nFinance\n\n\nKNN\n\n\nNaive Bayes\n\n\nFeature Importance\n\n\nDecision Tree\n\n\nDocker\n\n\nTests\n\n\n\n\n\n\n\nMarco Bravo, Nasim Ghazanfari Nasrabadi, Shizhe Zhang, Celeste Zhao\n\n\nDec 9, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Project Drillsense\n\n\n\ncode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nMining\n\n\nGeojson\n\n\nPrediction\n\n\nMachine Learning\n\n\nTime Series\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Aishwarya Nadimpally, Anu Banga, Weiran Zhao\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Mexico Census\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nActuarial\n\n\nPopulation\n\n\nGeojson\n\n\nRShiny\n\n\n\n\n\n\n\nMarco Bravo\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolar Savers\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nSunlight\n\n\nGeojson\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Nicole Bidwell, Rafe Chang, Sam Fo\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisuMorph\n\n\n\nImage Manipulation\n\n\nPoetry\n\n\nTests\n\n\nPyTest\n\n\nCookiecutter\n\n\nOpenCV\n\n\nPIL\n\n\nPackage Development\n\n\nPyPI\n\n\nReadtheDocs\n\n\n\n\n\n\n\nOrix Au Yeung, Marco Bravo, Atabak Alishiri, Shawn Hu\n\n\nFeb 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Bank Marketing Success on Term Deposit Subscription\n\n\n\nBanking\n\n\nAnalysis\n\n\nVisualization\n\n\nFinance\n\n\nKNN\n\n\nNaive Bayes\n\n\nFeature Importance\n\n\nDecision Tree\n\n\nDocker\n\n\nTests\n\n\n\n\n\n\n\nMarco Bravo, Nasim Ghazanfari Nasrabadi, Shizhe Zhang, Celeste Zhao\n\n\nDec 9, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#repositories",
@@ -206,6 +206,41 @@
     "objectID": "posts/bank_marketing_analysis/bank_marketing_analysis.html#repository",
     "href": "posts/bank_marketing_analysis/bank_marketing_analysis.html#repository",
     "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
+    "section": "Repository",
+    "text": "Repository"
+  },
+  {
+    "objectID": "posts/visumorph/visumorph.html",
+    "href": "posts/visumorph/visumorph.html",
+    "title": "VisuMorph",
+    "section": "",
+    "text": "VisuMorph is a powerful, user-friendly Python package designed for image manipulation. It simplifies image processing tasks, allowing users to effortlessly apply transformations and adjustments to their images. With its intuitive interface and a wide range of functionalities, VisuMorph is ideal for both hobbyists and professionals looking to enhance their digital imagery."
+  },
+  {
+    "objectID": "posts/visumorph/visumorph.html#features",
+    "href": "posts/visumorph/visumorph.html#features",
+    "title": "VisuMorph",
+    "section": "Features",
+    "text": "Features\n\nVisuMorph includes a variety of functions for image manipulation:\n\nFlipping(flip): Horizontally or vertically flip images, useful for creating mirror effects or correcting orientation.\nRotating(rotate): Rotate images by a specified degree, supporting both clockwise and anticlockwise rotations.\nHue Change(change_hue): Adjust the hue of images, allowing for color shifting and mood setting in visuals.\nScaling(scale): Resize images, either uniformly or non-uniformly, without losing the essence of the visual content.\n\n\nPosition in the Python Ecosystem\nVisuMorph, while a robust tool for image manipulation, is designed primarily as an educational project for the 524 course in the Master of Data Science program. It serves as an introductory tool for those beginning their journey in data science and image processing. While it offers a range of functionalities, it is more limited in scope compared to professional-grade packages like PIL (Python Imaging Library) and OpenCV. These larger libraries offer a wider range of complex functionalities and are suited for industrial applications. However, VisuMorph stands out for its simplicity and ease of use, making it an excellent starting point for students and hobbyists looking to understand the basics of image manipulation in Python.\n\n\nDocumentation\nThe full documentation including installation guides, example usages, and API references is hosted on ReadTheDocs and can be found here."
+  },
+  {
+    "objectID": "posts/visumorph/visumorph.html#position-in-the-python-ecosystem",
+    "href": "posts/visumorph/visumorph.html#position-in-the-python-ecosystem",
+    "title": "VisuMorph",
+    "section": "Position in the Python Ecosystem",
+    "text": "Position in the Python Ecosystem\nVisuMorph, while a robust tool for image manipulation, is designed primarily as an educational project for the 524 course in the Master of Data Science program. It serves as an introductory tool for those beginning their journey in data science and image processing. While it offers a range of functionalities, it is more limited in scope compared to professional-grade packages like PIL (Python Imaging Library) and OpenCV. These larger libraries offer a wider range of complex functionalities and are suited for industrial applications. However, VisuMorph stands out for its simplicity and ease of use, making it an excellent starting point for students and hobbyists looking to understand the basics of image manipulation in Python."
+  },
+  {
+    "objectID": "posts/visumorph/visumorph.html#documentation",
+    "href": "posts/visumorph/visumorph.html#documentation",
+    "title": "VisuMorph",
+    "section": "Documentation",
+    "text": "Documentation\nThe full documentation including installation guides, example usages, and API references is hosted on ReadTheDocs and can be found here."
+  },
+  {
+    "objectID": "posts/visumorph/visumorph.html#repository",
+    "href": "posts/visumorph/visumorph.html#repository",
+    "title": "VisuMorph",
     "section": "Repository",
     "text": "Repository"
   }

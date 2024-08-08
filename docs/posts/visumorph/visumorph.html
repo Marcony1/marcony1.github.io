@@ -6,13 +6,13 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Orix Au Yeung">
 <meta name="author" content="Marco Bravo">
-<meta name="author" content="Nasim Ghazanfari Nasrabadi">
-<meta name="author" content="Shizhe Zhang">
-<meta name="author" content="Celeste Zhao">
-<meta name="dcterms.date" content="2023-12-09">
+<meta name="author" content="Atabak Alishiri">
+<meta name="author" content="Shawn Hu">
+<meta name="dcterms.date" content="2024-02-03">
 
-<title>Marco Bravo - Predicting Bank Marketing Success on Term Deposit Subscription</title>
+<title>Marco Bravo - VisuMorph</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -135,7 +135,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#repository" id="toc-repository" class="nav-link active" data-scroll-target="#repository">Repository</a></li>
+  <li><a href="#features" id="toc-features" class="nav-link active" data-scroll-target="#features">Features</a></li>
+  <li><a href="#repository" id="toc-repository" class="nav-link" data-scroll-target="#repository">Repository</a></li>
   </ul>
 </nav>
     </div>
@@ -144,18 +145,18 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Predicting Bank Marketing Success on Term Deposit Subscription</h1>
+<h1 class="title">VisuMorph</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Banking</div>
-    <div class="quarto-category">Analysis</div>
-    <div class="quarto-category">Visualization</div>
-    <div class="quarto-category">Finance</div>
-    <div class="quarto-category">KNN</div>
-    <div class="quarto-category">Naive Bayes</div>
-    <div class="quarto-category">Feature Importance</div>
-    <div class="quarto-category">Decision Tree</div>
-    <div class="quarto-category">Docker</div>
+    <div class="quarto-category">Image Manipulation</div>
+    <div class="quarto-category">Poetry</div>
     <div class="quarto-category">Tests</div>
+    <div class="quarto-category">PyTest</div>
+    <div class="quarto-category">Cookiecutter</div>
+    <div class="quarto-category">OpenCV</div>
+    <div class="quarto-category">PIL</div>
+    <div class="quarto-category">Package Development</div>
+    <div class="quarto-category">PyPI</div>
+    <div class="quarto-category">ReadtheDocs</div>
   </div>
   </div>
 
@@ -166,17 +167,17 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Authors</div>
     <div class="quarto-title-meta-contents">
+             <p>Orix Au Yeung </p>
              <p>Marco Bravo </p>
-             <p>Nasim Ghazanfari Nasrabadi </p>
-             <p>Shizhe Zhang </p>
-             <p>Celeste Zhao </p>
+             <p>Atabak Alishiri </p>
+             <p>Shawn Hu </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">December 9, 2023</p>
+      <p class="date">February 3, 2024</p>
     </div>
   </div>
   
@@ -187,19 +188,31 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <div style="text-align: justify;">
-<p>In this analysis, we attempt to build a predictive model aimed at determining whether a client will subscribe to a term deposit, utilizing the data associated with direct marketing campaigns, specifically phone calls, in a Portuguese banking institution.</p>
+<p>VisuMorph is a powerful, user-friendly Python package designed for image manipulation. It simplifies image processing tasks, allowing users to effortlessly apply transformations and adjustments to their images. With its intuitive interface and a wide range of functionalities, VisuMorph is ideal for both hobbyists and professionals looking to enhance their digital imagery.</p>
 </div>
+<section id="features" class="level2">
+<h2 class="anchored" data-anchor-id="features">Features</h2>
 <div style="text-align: justify;">
-<p>After exploring on several models (logistic regression, KNN, decision tree, naive Bayers), we have selected the logistic regression model as our primary predictive tool. The final model performs fairly well when tested on an unseen dataset, achieving the highest AUC (Area Under the Curve) of 0.899. This exceptional AUC score underscores the model’s capacity to effectively differentiate between positive and negative outcomes. Notably, certain factors such as last contact duration, last contact month of the year and the clients’ types of jobs play a significant role in influencing the classification decision.</p>
-<p>The dataset used in this project originates from the Bank Marketing dataset created by S. Moro, P. Rita and P. Cortez at Iscte - University Institute of Lisbon. This dataset is accessible through the UCI Machine Learning Repository and can be accessed <a href="https://archive.ics.uci.edu/dataset/222/bank+marketing">here</a>. Among the four available datasets, we have utilized <a href="https://archive.ics.uci.edu/static/public/222/data.csv">bank-full.csv</a> which contains all examples and 17 inputs. Each row in the dataset represents an individual client data including the personal details (e.g., age, occupation, loan status, etc.), information regarding their response to the marketing campaign (e.g., outcomes of the previous marketing campaign, number of contacts made during the current campaign, etc.), and the eventual subscription outcome for the term deposit.</p>
-<section id="report" class="level2">
-<h2 class="anchored" data-anchor-id="report">Report</h2>
-<p>The final report can be found <a href="https://ubc-mds.github.io/bank-marketing-analysis/">here</a>.</p>
+<p>VisuMorph includes a variety of functions for image manipulation:</p>
+<ul>
+<li>Flipping(flip): Horizontally or vertically flip images, useful for creating mirror effects or correcting orientation.</li>
+<li>Rotating(rotate): Rotate images by a specified degree, supporting both clockwise and anticlockwise rotations.</li>
+<li>Hue Change(change_hue): Adjust the hue of images, allowing for color shifting and mood setting in visuals.</li>
+<li>Scaling(scale): Resize images, either uniformly or non-uniformly, without losing the essence of the visual content.</li>
+</ul>
+<section id="position-in-the-python-ecosystem" class="level2">
+<h2 class="anchored" data-anchor-id="position-in-the-python-ecosystem">Position in the Python Ecosystem</h2>
+<p>VisuMorph, while a robust tool for image manipulation, is designed primarily as an educational project for the 524 course in the Master of Data Science program. It serves as an introductory tool for those beginning their journey in data science and image processing. While it offers a range of functionalities, it is more limited in scope compared to professional-grade packages like PIL (Python Imaging Library) and OpenCV. These larger libraries offer a wider range of complex functionalities and are suited for industrial applications. However, VisuMorph stands out for its simplicity and ease of use, making it an excellent starting point for students and hobbyists looking to understand the basics of image manipulation in Python.</p>
+</section>
+<section id="documentation" class="level2">
+<h2 class="anchored" data-anchor-id="documentation">Documentation</h2>
+<p>The full documentation including installation guides, example usages, and API references is hosted on ReadTheDocs and can be found <a href="https://visumorph.readthedocs.io/en/latest/">here</a>.</p>
 </section>
 </div>
-<p><img src="banking.jpg" class="img-fluid"></p>
+<p><img src="documentation.jpg" class="img-fluid"></p>
+</section>
 <section id="repository" class="level2">
-<h2 class="anchored" data-anchor-id="repository"><a href="https://github.com/UBC-MDS/bank-marketing-analysis">Repository</a></h2>
+<h2 class="anchored" data-anchor-id="repository"><a href="https://github.com/UBC-MDS/VisuMorph">Repository</a></h2>
 
 
 </section>

@@ -23,4 +23,4 @@ The final report can be found [here](https://ubc-mds.github.io/bank-marketing-an
 
 ![](banking.jpg)
 
-## [Repository](https://github.com/UBC-MDS/bank-marketing-analysis?tab=readme-ov-file)
+## [Repository](https://github.com/UBC-MDS/bank-marketing-analysis)
