@@ -3,8 +3,8 @@ title: "VisuMorph"
 author: ["Orix Au Yeung", "Marco Bravo", "Atabak Alishiri", "Shawn Hu"]
 date: "2024-02-03"
 categories: [Image Manipulation, Poetry, Tests, PyTest, Cookiecutter, OpenCV, PIL, Package Development, PyPI,ReadtheDocs]
-image: "visumorph.jpg"
-resources: documentation.jpg
+image: "documentation.jpg"
+resources: [visumorph.jpg, documentation.jpg]
 ---
 <div style="text-align: justify;">
 VisuMorph is a powerful, user-friendly Python package designed for image manipulation. It simplifies image processing tasks, allowing users to effortlessly apply transformations and adjustments to their images. With its intuitive interface and a wide range of functionalities, VisuMorph is ideal for both hobbyists and professionals looking to enhance their digital imagery.
@@ -25,6 +25,8 @@ VisuMorph, while a robust tool for image manipulation, is designed primarily as 
 ## Documentation
 The full documentation including installation guides, example usages, and API references is hosted on ReadTheDocs and can be found [here](https://visumorph.readthedocs.io/en/latest/).
 </div>
+
+![](visumorph.jpg)
 
 ![](documentation.jpg)
 
