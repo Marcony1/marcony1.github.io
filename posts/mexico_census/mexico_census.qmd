@@ -2,7 +2,7 @@
 title: "2020 Mexico Census"
 author: "Marco Bravo"
 date: "2024-04-24"
-categories: [code, analysis, dashboard, visualization, actuarial, population, geojson]
+categories: [code, analysis, dashboard, visualization, actuarial, population, geojson, RShiny]
 image: "mexico_census.jpeg"
 ---
 
