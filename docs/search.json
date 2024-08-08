@@ -137,7 +137,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Project Drillsense\n\n\n\ncode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nMining\n\n\nGeojson\n\n\nPrediction\n\n\nMachine Learning\n\n\nTime Series\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Aishwarya Nadimpally, Anu Banga, Weiran Zhao\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Mexico Census\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nActuarial\n\n\nPopulation\n\n\nGeojson\n\n\nRShiny\n\n\n\n\n\n\n\nMarco Bravo\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolar Savers\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nSunlight\n\n\nGeojson\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Nicole Bidwell, Rafe Chang, Sam Fo\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisuMorph\n\n\n\nImage Manipulation\n\n\nPoetry\n\n\nTests\n\n\nPyTest\n\n\nCookiecutter\n\n\nOpenCV\n\n\nPIL\n\n\nPackage Development\n\n\nPyPI\n\n\nReadtheDocs\n\n\n\n\n\n\n\nOrix Au Yeung, Marco Bravo, Atabak Alishiri, Shawn Hu\n\n\nFeb 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Bank Marketing Success on Term Deposit Subscription\n\n\n\nBanking\n\n\nAnalysis\n\n\nVisualization\n\n\nFinance\n\n\nKNN\n\n\nNaive Bayes\n\n\nFeature Importance\n\n\nDecision Tree\n\n\nDocker\n\n\nTests\n\n\n\n\n\n\n\nMarco Bravo, Nasim Ghazanfari Nasrabadi, Shizhe Zhang, Celeste Zhao\n\n\nDec 9, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Project Drillsense\n\n\n\ncode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nMining\n\n\nGeojson\n\n\nPrediction\n\n\nMachine Learning\n\n\nTime Series\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Aishwarya Nadimpally, Anu Banga, Weiran Zhao\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDsensegif\n\n\n\nCode\n\n\nManipulation\n\n\nQR\n\n\n\n\n\n\n\nMarco Bravo\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Mexico Census\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nActuarial\n\n\nPopulation\n\n\nGeojson\n\n\nRShiny\n\n\n\n\n\n\n\nMarco Bravo\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolar Savers\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nSunlight\n\n\nGeojson\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Nicole Bidwell, Rafe Chang, Sam Fo\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisuMorph\n\n\n\nImage Manipulation\n\n\nPoetry\n\n\nTests\n\n\nPyTest\n\n\nCookiecutter\n\n\nOpenCV\n\n\nPIL\n\n\nPackage Development\n\n\nPyPI\n\n\nReadtheDocs\n\n\n\n\n\n\n\nOrix Au Yeung, Marco Bravo, Atabak Alishiri, Shawn Hu\n\n\nFeb 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Bank Marketing Success on Term Deposit Subscription\n\n\n\nBanking\n\n\nAnalysis\n\n\nVisualization\n\n\nFinance\n\n\nKNN\n\n\nNaive Bayes\n\n\nFeature Importance\n\n\nDecision Tree\n\n\nDocker\n\n\nTests\n\n\n\n\n\n\n\nMarco Bravo, Nasim Ghazanfari Nasrabadi, Shizhe Zhang, Celeste Zhao\n\n\nDec 9, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#repositories",
@@ -243,5 +243,12 @@
     "title": "VisuMorph",
     "section": "Repository",
     "text": "Repository"
+  },
+  {
+    "objectID": "posts/dsensegif/dsensegif.html",
+    "href": "posts/dsensegif/dsensegif.html",
+    "title": "Dsensegif",
+    "section": "",
+    "text": "Mini auxiliary project that helps to generate QR codes that direct the user to images that are already hosted in a website/repository. This project uses the qrcode library.\n\n\nUsage instructions\n\n\nClone the repository:\n$ git clone git@github.com:Marcony1/dsensegif.git\nCreate and activate the conda environment after changing directory to the root of the repo:\n$ conda env create --file environment.yml\n$ conda activate dsensegif\nOpen generate_qr.py and replace the url string assigned to gif_url with the url of the image for which you want to generate the QR code. Save this file.\nFrom the root of the directory run:\n$ python generate_qr.py\nYou will find your generated QR code under the folder results and with the name qrcode.png.\n\n\n\nDemo Image\n\n\n\nRepository"
   }
 ]
