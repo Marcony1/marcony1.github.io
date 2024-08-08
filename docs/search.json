@@ -137,7 +137,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Sample project\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nMe\n\n\nAug 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Mexico Census\n\n\n\ncode\n\n\nanalysis\n\n\ndashboard\n\n\nvisualization\n\n\nactuarial\n\n\npopulation\n\n\n\n\n\n\n\nMarco Bravo\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "2020 Mexico Census\n\n\n\ncode\n\n\nanalysis\n\n\ndashboard\n\n\nvisualization\n\n\nactuarial\n\n\npopulation\n\n\ngeojson\n\n\n\n\n\n\n\nMarco Bravo\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolar Savers\n\n\n\ncode\n\n\nanalysis\n\n\ndashboard\n\n\nvisualization\n\n\nsunlight\n\n\ngeojson\n\n\n\n\n\n\n\nMarco Bravo, Nicole Bidwell, Rafe Chang, Sam Fo\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#repositories",
@@ -173,5 +173,12 @@
     "title": "2020 Mexico Census",
     "section": "",
     "text": "Target audience: Socioeconomic researchers and policy makers.\n\nThe fourth demographic transition has reached many of the most modern and developed economies. However, for those countries that are still developing, the transition is not at a homogeneous stage across the country. In plain terms, the number of children couples are having, the number of elderly (as well as their mean ages) and internal migration vary from region to region as an indicator of access to health services, quality of life, level of development of the place, etc. This app allows the user to view the data set of INEGI’s 2020 Mexican Population Census to identify risk factors to anticipate and develop more effective policies. This dashboard allows visualizing different characteristics of the Mexican population with respect to its location.\n\n\nApp description\n\n\n\nDashboard Demo\n\n\n\n\nDeployment\n\n\nRepository"
+  },
+  {
+    "objectID": "posts/solar_savers/solar_savers.html",
+    "href": "posts/solar_savers/solar_savers.html",
+    "title": "Solar Savers",
+    "section": "",
+    "text": "A dashboard application helping Canadian homeowners in solar panel purchasing decisions.\n\n❌ The Problem The global need to shift towards sustainable energy sources has been recognized for decades, but its urgency continues to escalate. At the consumer-level, this problem is compounded by the rise in inflation and challenging decisions required when purchasing items like solar panels.\n✅ Our Solution With this escalating inflation and growing environmental consciousness, consumers across Canada seek to save money where they can. Solar Savers, a user-friendly app, is designed to better equip homeowners in the decision-making process of purchasing solar panels for their home. With user’s location, electricity rates, and panel quality, Solar Savers allows users to see their potential electricity and financial savings. It provides the required knowledge to assess the value of investing in solar panels and facilitates the decision-making process overall.\n\n\nDashboard Overview\n\n\n\nDeployment\n\n\nRepository"
   }
 ]

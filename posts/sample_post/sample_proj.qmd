@@ -1,9 +1,0 @@
----
-title: "Sample project"
-author: "Me"
-date: "2024-08-06"
-categories: [code, analysis]
-image: "sample.jpg"
----
-
-This is a sample project.
