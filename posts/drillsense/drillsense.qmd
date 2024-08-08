@@ -2,7 +2,7 @@
 title: "Project Drillsense"
 author: ["Marco Bravo", "Aishwarya Nadimpally", "Anu Banga", "Weiran Zhao"]
 date: "2024-06-26"
-categories: [code, analysis, dashboard, visualization, mining, geojson, prediction, Machine Learning, Time Series, Dash]
+categories: [code, Analysis, Dashboard, Visualization, Mining, Geojson, Prediction, Machine Learning, Time Series, Dash]
 image: "drillsense.gif"
 resources: [drillsense.gif, contributions.png, project_org.jpg]
 ---

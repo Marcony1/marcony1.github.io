@@ -137,7 +137,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Project Drillsense\n\n\n\ncode\n\n\nanalysis\n\n\ndashboard\n\n\nvisualization\n\n\nmining\n\n\ngeojson\n\n\nprediction\n\n\nMachine Learning\n\n\nTime Series\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Aishwarya Nadimpally, Anu Banga, Weiran Zhao\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Mexico Census\n\n\n\ncode\n\n\nanalysis\n\n\ndashboard\n\n\nvisualization\n\n\nactuarial\n\n\npopulation\n\n\ngeojson\n\n\nRShiny\n\n\n\n\n\n\n\nMarco Bravo\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolar Savers\n\n\n\ncode\n\n\nanalysis\n\n\ndashboard\n\n\nvisualization\n\n\nsunlight\n\n\ngeojson\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Nicole Bidwell, Rafe Chang, Sam Fo\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Project Drillsense\n\n\n\ncode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nMining\n\n\nGeojson\n\n\nPrediction\n\n\nMachine Learning\n\n\nTime Series\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Aishwarya Nadimpally, Anu Banga, Weiran Zhao\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Mexico Census\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nActuarial\n\n\nPopulation\n\n\nGeojson\n\n\nRShiny\n\n\n\n\n\n\n\nMarco Bravo\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolar Savers\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nSunlight\n\n\nGeojson\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Nicole Bidwell, Rafe Chang, Sam Fo\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Bank Marketing Success on Term Deposit Subscription\n\n\n\nBanking\n\n\nAnalysis\n\n\nVisualization\n\n\nFinance\n\n\nKNN\n\n\nNaive Bayes\n\n\nFeature Importance\n\n\nDecision Tree\n\n\nDocker\n\n\nTests\n\n\n\n\n\n\n\nMarco Bravo, Nasim Ghazanfari Nasrabadi, Shizhe Zhang, Celeste Zhao\n\n\nDec 9, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#repositories",
@@ -187,5 +187,26 @@
     "title": "Project Drillsense",
     "section": "",
     "text": "Rio Tinto Exploration is tasked with identifying and prioritizing mineral exploration projects globally. Mineral exploration discoveries primarily occur through drilling.\n\nIn Project DrillSense we deliver a dynamic and predictive solution that enables Rio Tinto to monitor and analyze drilling trends more effectively. Our data product is designed to answer three critical questions: it identifies current global trends in drilling, allows for the assessment of diverse trends across different metals, and offers predictions for upcoming drilling sites. This balanced approach ensures Rio Tinto can make well-informed decisions based on the insights available.\n\n\nDashboard Overview\n\nDisclaimer: This project belongs to RioTinto and everything contained in the project repository must remain private. Only a general overview of the project will be given.\n\n\nData product\nThe Data Product consists of:\n\nDashboard\nFinal report The final report provides a comprehensive analysis and summary of the project findings.\nNotebooks Notebooks used for data cleaning, analysis, visualization and models. These notebooks provide detailed insights and the code used for the project. Feasibility tests and analyses are also available in the archived notebooks in the repository.\nMiro board\nTechnical document\n\n\n\nProject Organization\n\n\n\nContributions"
+  },
+  {
+    "objectID": "posts/bank_marketing_analysis/bank_marketing_analysis.html",
+    "href": "posts/bank_marketing_analysis/bank_marketing_analysis.html",
+    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
+    "section": "",
+    "text": "In this analysis, we attempt to build a predictive model aimed at determining whether a client will subscribe to a term deposit, utilizing the data associated with direct marketing campaigns, specifically phone calls, in a Portuguese banking institution."
+  },
+  {
+    "objectID": "posts/bank_marketing_analysis/bank_marketing_analysis.html#report",
+    "href": "posts/bank_marketing_analysis/bank_marketing_analysis.html#report",
+    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
+    "section": "Report",
+    "text": "Report\nThe final report can be found here."
+  },
+  {
+    "objectID": "posts/bank_marketing_analysis/bank_marketing_analysis.html#repository",
+    "href": "posts/bank_marketing_analysis/bank_marketing_analysis.html#repository",
+    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
+    "section": "Repository",
+    "text": "Repository"
   }
 ]

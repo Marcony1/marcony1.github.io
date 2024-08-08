@@ -2,7 +2,7 @@
 title: "Solar Savers"
 author: ["Marco Bravo", "Nicole Bidwell", "Rafe Chang", "Sam Fo"]
 date: "2024-04-20"
-categories: [code, analysis, dashboard, visualization, sunlight, geojson, Dash]
+categories: [Code, Analysis, Dashboard, Visualization, Sunlight, Geojson, Dash]
 image: "solar_savers.gif"
 resources: solar_savers.gif
 ---
