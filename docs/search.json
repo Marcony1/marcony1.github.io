@@ -56,160 +56,6 @@
     "text": "Personal Projects\nSmart home automation with Home Assistant open-source software and AWS\n2021\n- Created a local server with a Raspberry Pi and configured Home Assistant open-source software to control smart home devices locally without proprietary apps. - Developed an AWS Lambda function to connect Alexa with the local ecosystem for voice control of smart devices.\nAndroid devices personalization and data extraction\n- Enabled Google Services on unsupported devices (e.g., Huawei P40/Huawei P40 Pro).\n- Extracted stored WiFi credentials from Android devices without rooting them via data mining."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
-    "section": "",
-    "text": "My name is Marco Polo Bravo Montiel (the first two names are considered to be my “first name”, while the last two are considered to be my “last name”) and I’m 26 years old. I come from Puebla, a beautiful city located in the center of Mexico, my beloved homeland. I graduated from Universidad de las Américas Puebla (UDLAP), presumably, the best Mexican university (please don’t tell Alexi, haha). I did my undergrad in Actuarial Sciences and I have currently passed 3 SOA exams (P, FM and IFM). I also hold a Master’s Degree in Corporate Finance from that same university. I’ve worked for over 7 years as State Co-Delegate for the Mexican Mathematical Olympiad. In the last two years I’ve worked as a Data Analyst/Junior Data Scientist, and I’ve been professor at UDLAP.\nI don’t know if other MDS students will actually visit this website in the coming days. However, this will definitely be read by a TA. Thank you for your hard work!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marco Polo Bravo Montiel",
-    "section": "",
-    "text": "Marco Bravo is a Data Scientist and Actuarial Consultant with three SOA exams passed. With extensive experience in banking, regulatory practices, predicting modeling, data visualization, reproducibility, mining and financial markets, Marco excels in understanding and addressing complex multidisciplinary real-world problems. Having served as a state co-delegate in the Mexican Mathematical Olympiad and having lectured actuarial sciences undergraduate students at Universidad de las Américas Puebla, Marco has cultivated a passion for making high level topics accessible to diverse audiences. Combined with his strong technical communication skills, he has been able to effectively convey critical insights to the stakeholders involved in every project he undertakes. Immersed in diverse and multicultural environments, Marco has developed a broad perspective that enriches his work. His lifelong pursuit of knowledge has made him fluent in Spanish, English and French with a foundational understanding of German.\n\n\n\n\n\n\n\n\nData Science\nMachine Learning\nFinancial Modeling\nData Visualization\nRisk\nProbability and Statistics\n\n\nSociety of Actuaries (SOA)\n\n\nExam P\nExam FM\nExam IFM\n\n\n\n\n\n\n\n\nMaster of Data Science, 2024 The University of British Columbia, Canada\nMaster’s Degree in Corporate Finance, 2021 Universidad de las Américas Puebla, Mexico\n\n\nSpecialization in Business Financial Management\n\n\nBachelor’s Degree in Actuarial Sciences, 2020 Universidad de las Américas Puebla, Mexico\n\n\n\n\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Resume"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Marco Polo Bravo Montiel",
-    "section": "",
-    "text": "Master of Data Science, 2024 The University of British Columbia, Canada\nMaster’s Degree in Corporate Finance, 2021 Universidad de las Américas Puebla, Mexico\n\n\nSpecialization in Business Financial Management\n\n\nBachelor’s Degree in Actuarial Sciences, 2020 Universidad de las Américas Puebla, Mexico"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Marco Polo Bravo Montiel",
-    "section": "",
-    "text": "Data Scientist (Internship), Rio Tinto | Vancouver, BC | May 2024 – June 2024\n- Developed a dashboard to visualize global mining trends. - Implemented ML algorithms to predict future drillholes. - Skills: Python, Data Visualization, Geodata, Mining Analytics.\nData Scientist, DATAKNOW S.A.S. | Mexico City, Mexico | July 2022 – August 2023\n- Clustered financial data using ML tools for Grupo Bancolombia to ensure compliance with SARLAFT regulations. - Developed Python scripts and workflows to maintain model reproducibility. - Skills: R, Python, Data Analysis, Machine Learning, Hadoop, Apache Impala.\nAssistant Teacher | Team Leader | Co-Delegate, Olimpiada Mexicana de Matemáticas | Puebla, Mexico | December 2015 – August 2023\n- Conducted advanced mathematics courses and master classes for contestants. - Led teams in national competitions. - Participated in teaching workshops. - Skills: Leadership, Trustworthiness, Communication.\nLecturer, Universidad de las Américas Puebla | San Andrés Cholula, Mexico | January 2023 – May 2023\n- Taught Actuarial Programming Tools to actuarial students. - Covered topics including Excel, VBA, MySQL, and collaborative programming. - Skills: Excel, VBA, MySQL, GitHub, Presentation Skills.\nData Analyst, Minsait | Mexico City, Mexico | February 2022 – August 2022\n- Automated financial processes and developed valuation calculators for Banorte. - Validated and corrected hedging strategies in accounting books. - Skills: Excel, VBA, Data Analysis, Scala, Murex.\nData Analyst (Internship), Mexican Railways National Museum | Puebla, Mexico | June 2019 – March 2020\n- Analyzed museum databases and automated data capture processes. - Developed an R script for reporting and analysis. - Skills: R, Excel, VBA, Presentation Skills."
-  },
-  {
-    "objectID": "index.html#biography",
-    "href": "index.html#biography",
-    "title": "Marco Polo Bravo Montiel",
-    "section": "",
-    "text": "Marco Bravo is a Data Scientist and Actuarial Consultant with three SOA exams passed. With extensive experience in banking, regulatory practices, predicting modeling, data visualization, reproducibility, mining and financial markets, Marco excels in understanding and addressing complex multidisciplinary real-world problems. Having served as a state co-delegate in the Mexican Mathematical Olympiad and having lectured actuarial sciences undergraduate students at Universidad de las Américas Puebla, Marco has cultivated a passion for making high level topics accessible to diverse audiences. Combined with his strong technical communication skills, he has been able to effectively convey critical insights to the stakeholders involved in every project he undertakes. Immersed in diverse and multicultural environments, Marco has developed a broad perspective that enriches his work. His lifelong pursuit of knowledge has made him fluent in Spanish, English and French with a foundational understanding of German."
-  },
-  {
-    "objectID": "index.html#interests",
-    "href": "index.html#interests",
-    "title": "Marco Polo Bravo Montiel",
-    "section": "",
-    "text": "Data Science\nMachine Learning\nFinancial Modeling\nData Visualization\nRisk\nProbability and Statistics\n\n\nSociety of Actuaries (SOA)\n\n\nExam P\nExam FM\nExam IFM"
-  },
-  {
-    "objectID": "index.html#specialized-training",
-    "href": "index.html#specialized-training",
-    "title": "Marco Polo Bravo Montiel",
-    "section": "",
-    "text": "Microsoft AZ-900 (Feb 2022)\nSociety of Actuaries: P, FM, IFM, studying for SRM\nInformatica CDI Partner Bootcamp Certification (Oct 2022)"
-  },
-  {
-    "objectID": "index.html#technical-skills",
-    "href": "index.html#technical-skills",
-    "title": "Marco Polo Bravo Montiel",
-    "section": "",
-    "text": "Programming Languages: Python, R, C, SQL, VBA, Scala\nFrameworks & Libraries: PyTorch, Hadoop, Scikit-Learn, Pandas, NumPy, Spacy, PySpark, PyArrow, Matplotlib, SciPy, Seaborn, Altair, Bokeh, Pillow, NLTK, Flask, Plotly, Dplyr, Ggplot2, GGally, Shiny, Tidyr, Lattice, Knitr, Lubridate, Tidyverse\nDatabases: MySQL, MongoDB, PostgreSQL, Microsoft SQL Server\nTools & Platforms: JupyterLab, VS Code, RStudio, Git, Docker, Apache Impala, Murex, Salesforce, Informatica Cloud Data Integration, Microsoft Power BI\nCloud Platforms: Azure, AWS"
-  },
-  {
-    "objectID": "index.html#languages",
-    "href": "index.html#languages",
-    "title": "Marco Polo Bravo Montiel",
-    "section": "",
-    "text": "Spanish: Native\n\nEnglish: Fluent\n\nFrench: Fluent\n\nGerman: Conversant"
-  },
-  {
-    "objectID": "index.html#awards",
-    "href": "index.html#awards",
-    "title": "Marco Polo Bravo Montiel",
-    "section": "",
-    "text": "Math Olympiad Winner, Mexican Mathematical Olympiad | 2012 - 2015\n\nJunior Olympiad: Bronze Medal Winner (2012, 2013)\nSenior Olympiad: Finalist (2014, 2015)"
-  },
-  {
-    "objectID": "index.html#personal-projects",
-    "href": "index.html#personal-projects",
-    "title": "Marco Polo Bravo Montiel",
-    "section": "",
-    "text": "Smart Home Automation: Created an IoT ecosystem with Home Assistant and AWS.\nAndroid Devices Personalization: Enabled Google Services on unsupported devices."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Project Drillsense\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nMining\n\n\nGeojson\n\n\nPrediction\n\n\nMachine Learning\n\n\nTime Series\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Aishwarya Nadimpally, Anu Banga, Weiran Zhao\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDsensegif\n\n\n\nCode\n\n\nManipulation\n\n\nQR\n\n\n\n\n\n\n\nMarco Bravo\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Mexico Census\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nActuarial\n\n\nPopulation\n\n\nGeojson\n\n\nRShiny\n\n\n\n\n\n\n\nMarco Bravo\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolar Savers\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nSunlight\n\n\nGeojson\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Nicole Bidwell, Rafe Chang, Sam Fo\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisuMorph\n\n\n\nImage Manipulation\n\n\nPoetry\n\n\nTests\n\n\nPyTest\n\n\nCookiecutter\n\n\nOpenCV\n\n\nPIL\n\n\nPackage Development\n\n\nPyPI\n\n\nReadtheDocs\n\n\n\n\n\n\n\nOrix Au Yeung, Marco Bravo, Atabak Alishiri, Shawn Hu\n\n\nFeb 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Bank Marketing Success on Term Deposit Subscription\n\n\n\nBanking\n\n\nAnalysis\n\n\nVisualization\n\n\nFinance\n\n\nKNN\n\n\nNaive Bayes\n\n\nFeature Importance\n\n\nDecision Tree\n\n\nDocker\n\n\nTests\n\n\n\n\n\n\n\nMarco Bravo, Nasim Ghazanfari Nasrabadi, Shizhe Zhang, Celeste Zhao\n\n\nDec 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSARLAFT\n\n\n\nCode\n\n\nAnalysis\n\n\nClustering\n\n\nVisualization\n\n\nRisk\n\n\nMachine Learning\n\n\nPipelines\n\n\nUnsupervised Learning\n\n\n\n\n\n\n\nMarco Bravo, Nicolás Hernández\n\n\nNov 14, 2022\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects.html#repositories",
-    "href": "projects.html#repositories",
-    "title": "Projects",
-    "section": "",
-    "text": "&lt;a href=\"https://github.com/your-repository-url-1\" target=\"_blank\"&gt;\n  &lt;img src=\"path/to/your/image1.png\" alt=\"Repository 1\"&gt;\n  &lt;h3&gt;Repository Title 1&lt;/h3&gt;\n  &lt;p&gt;Description for Repository 1&lt;/p&gt;\n&lt;/a&gt;"
-  },
-  {
-    "objectID": "projects.html#videos",
-    "href": "projects.html#videos",
-    "title": "Projects",
-    "section": "",
-    "text": "&lt;a href=\"https://youtube.com/your-video-url-1\" target=\"_blank\"&gt;\n  &lt;img src=\"path/to/your/video-thumbnail1.png\" alt=\"Video 1\"&gt;\n  &lt;h3&gt;Video Title 1&lt;/h3&gt;\n  &lt;p&gt;Description for Video 1&lt;/p&gt;\n&lt;/a&gt;"
-  },
-  {
-    "objectID": "projects.html#demos",
-    "href": "projects.html#demos",
-    "title": "Projects",
-    "section": "",
-    "text": "&lt;a href=\"https://your-demo-url-1\" target=\"_blank\"&gt;\n  &lt;img src=\"path/to/your/demo-thumbnail1.png\" alt=\"Demo 1\"&gt;\n  &lt;h3&gt;Demo Title 1&lt;/h3&gt;\n  &lt;p&gt;Description for Demo 1&lt;/p&gt;\n&lt;/a&gt;"
-  },
-  {
-    "objectID": "posts/sample_post/sample_proj.html",
-    "href": "posts/sample_post/sample_proj.html",
-    "title": "Sample project",
-    "section": "",
-    "text": "This is a sample project."
-  },
-  {
-    "objectID": "posts/mexico_census/mexico_census.html",
-    "href": "posts/mexico_census/mexico_census.html",
-    "title": "2020 Mexico Census",
-    "section": "",
-    "text": "Target audience: Socioeconomic researchers and policy makers.\n\nThe fourth demographic transition has reached many of the most modern and developed economies. However, for those countries that are still developing, the transition is not at a homogeneous stage across the country. In plain terms, the number of children couples are having, the number of elderly (as well as their mean ages) and internal migration vary from region to region as an indicator of access to health services, quality of life, level of development of the place, etc. This app allows the user to view the data set of INEGI’s 2020 Mexican Population Census to identify risk factors to anticipate and develop more effective policies. This dashboard allows visualizing different characteristics of the Mexican population with respect to its location.\n\n\nApp description\n\n\n\nDashboard Demo\n\n\n\n\nDeployment\n\n\nRepository"
-  },
-  {
-    "objectID": "posts/solar_savers/solar_savers.html",
-    "href": "posts/solar_savers/solar_savers.html",
-    "title": "Solar Savers",
-    "section": "",
-    "text": "A dashboard application helping Canadian homeowners in solar panel purchasing decisions.\n\n❌ The Problem The global need to shift towards sustainable energy sources has been recognized for decades, but its urgency continues to escalate. At the consumer-level, this problem is compounded by the rise in inflation and challenging decisions required when purchasing items like solar panels.\n✅ Our Solution With this escalating inflation and growing environmental consciousness, consumers across Canada seek to save money where they can. Solar Savers, a user-friendly app, is designed to better equip homeowners in the decision-making process of purchasing solar panels for their home. With user’s location, electricity rates, and panel quality, Solar Savers allows users to see their potential electricity and financial savings. It provides the required knowledge to assess the value of investing in solar panels and facilitates the decision-making process overall.\n\n\nDashboard Overview\n\n\n\nDeployment\n\n\nRepository"
-  },
-  {
-    "objectID": "posts/drillsense/drillsense.html",
-    "href": "posts/drillsense/drillsense.html",
-    "title": "Project Drillsense",
-    "section": "",
-    "text": "Rio Tinto Exploration is tasked with identifying and prioritizing mineral exploration projects globally. Mineral exploration discoveries primarily occur through drilling.\n\nIn Project DrillSense we deliver a dynamic and predictive solution that enables Rio Tinto to monitor and analyze drilling trends more effectively. Our data product is designed to answer three critical questions: it identifies current global trends in drilling, allows for the assessment of diverse trends across different metals, and offers predictions for upcoming drilling sites. This balanced approach ensures Rio Tinto can make well-informed decisions based on the insights available.\n\n\nDashboard Overview\n\nDisclaimer: This project belongs to RioTinto and everything contained in the project repository must remain private. Only a general overview of the project will be given.\n\n\nData product\nThe Data Product consists of:\n\nDashboard\nFinal report The final report provides a comprehensive analysis and summary of the project findings.\nNotebooks Notebooks used for data cleaning, analysis, visualization and models. These notebooks provide detailed insights and the code used for the project. Feasibility tests and analyses are also available in the archived notebooks in the repository.\nMiro board\nTechnical document\n\n\n\nProject Organization\n\n\n\nContributions"
-  },
-  {
-    "objectID": "posts/bank_marketing_analysis/bank_marketing_analysis.html",
-    "href": "posts/bank_marketing_analysis/bank_marketing_analysis.html",
-    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
-    "section": "",
-    "text": "In this analysis, we attempt to build a predictive model aimed at determining whether a client will subscribe to a term deposit, utilizing the data associated with direct marketing campaigns, specifically phone calls, in a Portuguese banking institution."
-  },
-  {
-    "objectID": "posts/bank_marketing_analysis/bank_marketing_analysis.html#report",
-    "href": "posts/bank_marketing_analysis/bank_marketing_analysis.html#report",
-    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
-    "section": "Report",
-    "text": "Report\n\nThe final report can be found here."
-  },
-  {
-    "objectID": "posts/bank_marketing_analysis/bank_marketing_analysis.html#repository",
-    "href": "posts/bank_marketing_analysis/bank_marketing_analysis.html#repository",
-    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
-    "section": "Repository",
-    "text": "Repository"
-  },
-  {
     "objectID": "posts/visumorph/visumorph.html",
     "href": "posts/visumorph/visumorph.html",
     "title": "VisuMorph",
@@ -245,6 +91,13 @@
     "text": "Repository"
   },
   {
+    "objectID": "posts/sarlaft/sarlaft.html",
+    "href": "posts/sarlaft/sarlaft.html",
+    "title": "SARLAFT",
+    "section": "",
+    "text": "Clustering of financial information of Grupo Bancolombia in compliance with SARLAFT.\n\nDuring my time as a Data Scientist at DataKnow, I led end-to-end projects on predictive modeling and machine learning. One of these had the purpose of fighting against Money Laundering and Terrorism by using and evaluating the performance of clustering algorithms where NLP and text mining were key in extracting useful information from the data. The whole workflow of the project was designed from scratch, from the obtaining of the raw data, its standardization through null and outlier handling, its classification for further processing, and the delivery of key insights, an artifact and documentation to the stakeholders.\n\n\nProject Description\n\n\n\n\n\nDisclaimer: GitHub Repository cannot be shared."
+  },
+  {
     "objectID": "posts/dsensegif/dsensegif.html",
     "href": "posts/dsensegif/dsensegif.html",
     "title": "Dsensegif",
@@ -252,10 +105,80 @@
     "text": "Mini auxiliary project that helps to generate QR codes that direct the user to images that are already hosted in a website/repository. This project uses the qrcode library.\n\n\nUsage instructions\n\n\nClone the repository:\n$ git clone git@github.com:Marcony1/dsensegif.git\nCreate and activate the conda environment after changing directory to the root of the repo:\n$ conda env create --file environment.yml\n$ conda activate dsensegif\nOpen generate_qr.py and replace the url string assigned to gif_url with the url of the image for which you want to generate the QR code. Save this file.\nFrom the root of the directory run:\n$ python generate_qr.py\nYou will find your generated QR code under the folder results and with the name qrcode.png.\n\n\n\nDemo Image\n\n\n\nRepository"
   },
   {
-    "objectID": "posts/sarlaft/sarlaft.html",
-    "href": "posts/sarlaft/sarlaft.html",
-    "title": "SARLAFT",
+    "objectID": "posts/bank_marketing_analysis/bank_marketing_analysis.html",
+    "href": "posts/bank_marketing_analysis/bank_marketing_analysis.html",
+    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
     "section": "",
-    "text": "Clustering of financial information of Grupo Bancolombia in compliance with SARLAFT.\n\nDuring my time as a Data Scientist at DataKnow, I led end-to-end projects on predictive modeling and machine learning. One of these had the purpose of fighting against Money Laundering and Terrorism by using and evaluating the performance of clustering algorithms where NLP and text mining were key in extracting useful information from the data. The whole workflow of the project was designed from scratch, from the obtaining of the raw data, its standardization through null and outlier handling, its classification for further processing, and the delivery of key insights, an artifact and documentation to the stakeholders.\n\n\nProject Description\n\n\n\n\n\nDisclaimer: GitHub Repository cannot be shared."
+    "text": "In this analysis, we attempt to build a predictive model aimed at determining whether a client will subscribe to a term deposit, utilizing the data associated with direct marketing campaigns, specifically phone calls, in a Portuguese banking institution."
+  },
+  {
+    "objectID": "posts/bank_marketing_analysis/bank_marketing_analysis.html#report",
+    "href": "posts/bank_marketing_analysis/bank_marketing_analysis.html#report",
+    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
+    "section": "Report",
+    "text": "Report\n\nThe final report can be found here."
+  },
+  {
+    "objectID": "posts/bank_marketing_analysis/bank_marketing_analysis.html#repository",
+    "href": "posts/bank_marketing_analysis/bank_marketing_analysis.html#repository",
+    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
+    "section": "Repository",
+    "text": "Repository"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Marco Bravo is a Data Scientist and Actuarial Consultant with three SOA exams passed. With extensive experience in banking, regulatory practices, predicting modeling, data visualization, reproducibility, mining and financial markets, Marco excels in understanding and addressing complex multidisciplinary real-world problems. Having served as a state co-delegate in the Mexican Mathematical Olympiad and having lectured actuarial sciences undergraduate students at Universidad de las Américas Puebla, Marco has cultivated a passion for making high level topics accessible to diverse audiences. Combined with his strong technical communication skills, he has been able to effectively convey critical insights to the stakeholders involved in every project he undertakes. Immersed in diverse and multicultural environments, Marco has developed a broad perspective that enriches his work. His lifelong pursuit of knowledge has made him fluent in Spanish, English and French with a foundational understanding of German.\n\n\n\n\n\n\n\n\nData Science\nMachine Learning\nFinancial Modeling\nData Visualization\nRisk\nProbability and Statistics\n\n\nSociety of Actuaries (SOA)\n\n\nExam P\nExam FM\nExam IFM\n\n\n\n\n\n\n\n\nMaster of Data Science, 2024 The University of British Columbia, Canada\nMaster’s Degree in Corporate Finance, 2021 Universidad de las Américas Puebla, Mexico\n\n\nSpecialization in Business Financial Management\n\n\nBachelor’s Degree in Actuarial Sciences, 2020 Universidad de las Américas Puebla, Mexico\n\n\n\n\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Resume"
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Marco Bravo is a Data Scientist and Actuarial Consultant with three SOA exams passed. With extensive experience in banking, regulatory practices, predicting modeling, data visualization, reproducibility, mining and financial markets, Marco excels in understanding and addressing complex multidisciplinary real-world problems. Having served as a state co-delegate in the Mexican Mathematical Olympiad and having lectured actuarial sciences undergraduate students at Universidad de las Américas Puebla, Marco has cultivated a passion for making high level topics accessible to diverse audiences. Combined with his strong technical communication skills, he has been able to effectively convey critical insights to the stakeholders involved in every project he undertakes. Immersed in diverse and multicultural environments, Marco has developed a broad perspective that enriches his work. His lifelong pursuit of knowledge has made him fluent in Spanish, English and French with a foundational understanding of German."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Data Science\nMachine Learning\nFinancial Modeling\nData Visualization\nRisk\nProbability and Statistics\n\n\nSociety of Actuaries (SOA)\n\n\nExam P\nExam FM\nExam IFM"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Marco Polo Bravo Montiel",
+    "section": "",
+    "text": "Master of Data Science, 2024 The University of British Columbia, Canada\nMaster’s Degree in Corporate Finance, 2021 Universidad de las Américas Puebla, Mexico\n\n\nSpecialization in Business Financial Management\n\n\nBachelor’s Degree in Actuarial Sciences, 2020 Universidad de las Américas Puebla, Mexico"
+  },
+  {
+    "objectID": "posts/drillsense/drillsense.html",
+    "href": "posts/drillsense/drillsense.html",
+    "title": "Project Drillsense",
+    "section": "",
+    "text": "Rio Tinto Exploration is tasked with identifying and prioritizing mineral exploration projects globally. Mineral exploration discoveries primarily occur through drilling.\n\nIn Project DrillSense we deliver a dynamic and predictive solution that enables Rio Tinto to monitor and analyze drilling trends more effectively. Our data product is designed to answer three critical questions: it identifies current global trends in drilling, allows for the assessment of diverse trends across different metals, and offers predictions for upcoming drilling sites. This balanced approach ensures Rio Tinto can make well-informed decisions based on the insights available.\n\n\nDashboard Overview\n\nDisclaimer: This project belongs to RioTinto and everything contained in the project repository must remain private. Only a general overview of the project will be given.\n\n\nData product\nThe Data Product consists of:\n\nDashboard\nFinal report The final report provides a comprehensive analysis and summary of the project findings.\nNotebooks Notebooks used for data cleaning, analysis, visualization and models. These notebooks provide detailed insights and the code used for the project. Feasibility tests and analyses are also available in the archived notebooks in the repository.\nMiro board\nTechnical document\n\n\n\nProject Organization\n\n\n\nContributions"
+  },
+  {
+    "objectID": "posts/mexico_census/mexico_census.html",
+    "href": "posts/mexico_census/mexico_census.html",
+    "title": "2020 Mexico Census",
+    "section": "",
+    "text": "Target audience: Socioeconomic researchers and policy makers.\n\nThe fourth demographic transition has reached many of the most modern and developed economies. However, for those countries that are still developing, the transition is not at a homogeneous stage across the country. In plain terms, the number of children couples are having, the number of elderly (as well as their mean ages) and internal migration vary from region to region as an indicator of access to health services, quality of life, level of development of the place, etc. This app allows the user to view the data set of INEGI’s 2020 Mexican Population Census to identify risk factors to anticipate and develop more effective policies. This dashboard allows visualizing different characteristics of the Mexican population with respect to its location.\n\n\nApp description\n\n\n\nDashboard Demo\n\n\n\n\nDeployment\n\n\nRepository"
+  },
+  {
+    "objectID": "posts/solar_savers/solar_savers.html",
+    "href": "posts/solar_savers/solar_savers.html",
+    "title": "Solar Savers",
+    "section": "",
+    "text": "A dashboard application helping Canadian homeowners in solar panel purchasing decisions.\n\n❌ The Problem The global need to shift towards sustainable energy sources has been recognized for decades, but its urgency continues to escalate. At the consumer-level, this problem is compounded by the rise in inflation and challenging decisions required when purchasing items like solar panels.\n✅ Our Solution With this escalating inflation and growing environmental consciousness, consumers across Canada seek to save money where they can. Solar Savers, a user-friendly app, is designed to better equip homeowners in the decision-making process of purchasing solar panels for their home. With user’s location, electricity rates, and panel quality, Solar Savers allows users to see their potential electricity and financial savings. It provides the required knowledge to assess the value of investing in solar panels and facilitates the decision-making process overall.\n\n\nDashboard Overview\n\n\n\nDeployment\n\n\nRepository"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project Drillsense\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nMining\n\n\nGeojson\n\n\nPrediction\n\n\nMachine Learning\n\n\nTime Series\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Aishwarya Nadimpally, Anu Banga, Weiran Zhao\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDsensegif\n\n\n\nCode\n\n\nManipulation\n\n\nQR\n\n\n\n\n\n\n\nMarco Bravo\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Mexico Census\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nActuarial\n\n\nPopulation\n\n\nGeojson\n\n\nRShiny\n\n\n\n\n\n\n\nMarco Bravo\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolar Savers\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nSunlight\n\n\nGeojson\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Nicole Bidwell, Rafe Chang, Sam Fo\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisuMorph\n\n\n\nImage Manipulation\n\n\nPoetry\n\n\nTests\n\n\nPyTest\n\n\nCookiecutter\n\n\nOpenCV\n\n\nPIL\n\n\nPackage Development\n\n\nPyPI\n\n\nReadtheDocs\n\n\n\n\n\n\n\nOrix Au Yeung, Marco Bravo, Atabak Alishiri, Shawn Hu\n\n\nFeb 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Bank Marketing Success on Term Deposit Subscription\n\n\n\nBanking\n\n\nAnalysis\n\n\nVisualization\n\n\nFinance\n\n\nKNN\n\n\nNaive Bayes\n\n\nFeature Importance\n\n\nDecision Tree\n\n\nDocker\n\n\nTests\n\n\n\n\n\n\n\nMarco Bravo, Nasim Ghazanfari Nasrabadi, Shizhe Zhang, Celeste Zhao\n\n\nDec 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSARLAFT\n\n\n\nCode\n\n\nAnalysis\n\n\nClustering\n\n\nVisualization\n\n\nRisk\n\n\nMachine Learning\n\n\nPipelines\n\n\nUnsupervised Learning\n\n\n\n\n\n\n\nMarco Bravo, Nicolás Hernández\n\n\nNov 14, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
