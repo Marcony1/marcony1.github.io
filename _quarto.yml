@@ -48,7 +48,17 @@ format:
     monofont: courier new
     css: styles.css
     toc: true
+    include-in-header: 
+      - text: |
+            <!-- Google tag (gtag.js) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-XYECR0MZCR"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
 
+              gtag('config', 'G-XYECR0MZCR');
+            </script>
 
 execute:
   freeze: auto
