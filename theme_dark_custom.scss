@@ -6,3 +6,10 @@ $link-color: #75AADB;
 
 // Code blocks
 $code-block-bg-alpha: -.8;
+
+.dark-mode {
+  .quarto-grid-item {
+    background-color: #333; /* A darker background for dark mode */
+    color: #fff; /* White text for readability */
+  }
+}
