@@ -49,6 +49,10 @@ format:
     monofont: courier new
     css: styles.css
     toc: true
+    grid: 
+      body-width: 1200px
+      sidebar-width: 200px
+      margin-width: 200px
 
 
 execute:

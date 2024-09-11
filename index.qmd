@@ -102,6 +102,10 @@ Immersed in diverse and multicultural environments, Marco has developed a broad 
 }
 
 /* Add indentation for the Education section subtexts */
+.degree {
+  margin-left: 10px;
+}
+
 .university {
   display: block;
   margin-left: 20px;
