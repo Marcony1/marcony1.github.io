@@ -58,18 +58,19 @@ Immersed in diverse and multicultural environments, Marco has developed a broad 
 ::: {.column width="65%"}
 ## Education
 <div class="interests-education">
-**<span class="degree">Master of Data Science, 2024</span>**<br>
+{{< fa graduation-cap >}} **<span class="degree">Master of Data Science, 2024</span>**<br>
 <span class="university">The University of British Columbia, Canada</span>
 
-**<span class="degree">Master’s Degree in Corporate Finance, 2021</span>**<br>
+{{< fa graduation-cap >}} **<span class="degree">Master’s Degree in Corporate Finance, 2021</span>**<br>
 <span class="university">Universidad de las Américas Puebla, Mexico</span>
 <div class="specialization">
 - Specialization in Business Financial Management
 </div>
 
 
-**<span class="degree">Bachelor’s Degree in Actuarial Sciences, 2020</span>**<br>
+{{< fa graduation-cap >}} **<span class="degree">Bachelor’s Degree in Actuarial Sciences, 2020</span>**<br>
 <span class="university">Universidad de las Américas Puebla, Mexico</span>
+
 
 
 </div> 
@@ -81,7 +82,7 @@ Immersed in diverse and multicultural environments, Marco has developed a broad 
 :::
 
 <style>
-
+/* Display correctly if device's screen is small */
 @media (max-width: 768px) {
   .column {
     width: 100% !important;
@@ -92,4 +93,22 @@ Immersed in diverse and multicultural environments, Marco has developed a broad 
     display: none;
   }
 }
+
+/* Style for Education section with icons as bullet points */
+.education .fa-graduation-cap {
+  margin-right: 10px;
+  font-size: 1.2em; /* Adjust size of the icon */
+  vertical-align: middle;
+}
+
+/* Add indentation for the Education section subtexts */
+.university {
+  display: block;
+  margin-left: 20px;
+}
+
+.specialization {
+  margin-left: 20px;
+}
+
 </style>

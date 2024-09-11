@@ -41,6 +41,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -183,14 +185,14 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
 <section id="education" class="level2">
 <h2 data-anchor-id="education">Education</h2>
 <div class="interests-education">
-<p><strong><span class="degree">Master of Data Science, 2024</span></strong><br> <span class="university">The University of British Columbia, Canada</span></p>
-<strong><span class="degree">Master’s Degree in Corporate Finance, 2021</span></strong><br> <span class="university">Universidad de las Américas Puebla, Mexico</span>
+<p><i class="fa-solid fa-graduation-cap" aria-label="graduation-cap"></i> <strong><span class="degree">Master of Data Science, 2024</span></strong><br> <span class="university">The University of British Columbia, Canada</span></p>
+<i class="fa-solid fa-graduation-cap" aria-label="graduation-cap"></i> <strong><span class="degree">Master’s Degree in Corporate Finance, 2021</span></strong><br> <span class="university">Universidad de las Américas Puebla, Mexico</span>
 <div class="specialization">
 <ul>
 <li>Specialization in Business Financial Management</li>
 </ul>
 </div>
-<p><strong><span class="degree">Bachelor’s Degree in Actuarial Sciences, 2020</span></strong><br> <span class="university">Universidad de las Américas Puebla, Mexico</span></p>
+<p><i class="fa-solid fa-graduation-cap" aria-label="graduation-cap"></i> <strong><span class="degree">Bachelor’s Degree in Actuarial Sciences, 2020</span></strong><br> <span class="university">Universidad de las Américas Puebla, Mexico</span></p>
 </div>
 </section>
 </div>
@@ -218,7 +220,7 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
 </div>
 
 <style>
-
+/* Display correctly if device's screen is small */
 @media (max-width: 768px) {
   .column {
     width: 100% !important;
@@ -229,6 +231,24 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
     display: none;
   }
 }
+
+/* Style for Education section with icons as bullet points */
+.education .fa-graduation-cap {
+  margin-right: 10px;
+  font-size: 1.2em; /* Adjust size of the icon */
+  vertical-align: middle;
+}
+
+/* Add indentation for the Education section subtexts */
+.university {
+  display: block;
+  margin-left: 20px;
+}
+
+.specialization {
+  margin-left: 20px;
+}
+
 </style>
 
 
