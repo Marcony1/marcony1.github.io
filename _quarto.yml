@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  google-analytics: G-XYECR0MZCR
+  google-analytics: "G-XYECR0MZCR"
   title: "Marco Bravo"
   favicon: "images/favicon.jpg"
   search: 
