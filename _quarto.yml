@@ -5,7 +5,8 @@ project:
 website:
   title: "Marco Bravo"
   favicon: "images/favicon.jpg"
-  google-analytics: "G-XYECR0MZCR"
+  google-analytics:
+    tracking-id: "G-XYECR0MZCR"
   search: 
     location: navbar
     type: textbox
