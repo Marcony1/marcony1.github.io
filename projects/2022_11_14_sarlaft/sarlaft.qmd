@@ -4,7 +4,16 @@ description: |
   Clustering of financial information of Grupo Bancolombia in compliance with SARLAFT.
 author: ["Marco Bravo", "Nicolás Hernández"]
 date: "2022-11-14"
-categories: [Code, Analysis, Clustering, Visualization, Risk, Machine Learning, Pipelines, Unsupervised Learning]
+categories: 
+  - Code
+  - Analysis
+  - Clustering
+  - Visualization
+  - Risk
+  - Machine Learning
+  - Pipelines 
+  - Unsupervised 
+  - Learning
 image: "sarlaft.jpg"
 ---
 

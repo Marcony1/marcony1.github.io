@@ -1,8 +1,20 @@
 ---
 title: "Predicting Bank Marketing Success on Term Deposit Subscription"
+description: |
+  Analysis where a predictive model is developed to determine if a client will subscribe or not to a term deposit.
 author: ["Marco Bravo", "Nasim Ghazanfari Nasrabadi", "Shizhe Zhang", "Celeste Zhao"]
 date: "2023-12-09"
-categories: [Banking, Analysis, Visualization, Finance, KNN, Naive Bayes, Feature Importance, Decision Tree, Docker, Tests]
+categories: 
+- Banking
+- Analysis
+- Visualization
+- Finance
+- KNN
+- Naive Bayes
+- Feature Importance
+- Decision Tree
+- Docker
+- Tests
 image: "banking.jpg"
 resources: banking.jpg
 ---

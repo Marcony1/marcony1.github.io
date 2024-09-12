@@ -2,7 +2,17 @@
 title: "VisuMorph"
 author: ["Orix Au Yeung", "Marco Bravo", "Atabak Alishiri", "Shawn Hu"]
 date: "2024-02-03"
-categories: [Image Manipulation, Poetry, Tests, PyTest, Cookiecutter, OpenCV, PIL, Package Development, PyPI,ReadtheDocs]
+categories: 
+- Image Manipulation
+- Poetry
+- Tests
+- PyTest
+- Cookiecutter
+- OpenCV
+- PIL
+- Package Development
+- PyPI
+- ReadtheDocs
 image: "documentation.jpg"
 resources: [visumorph.jpg, documentation.jpg]
 ---
