@@ -214,6 +214,6 @@
     "href": "talks/2024_04_11_Elevator_Pitch/elevator_pitch.html",
     "title": "Elevator Pitch - Home Assistant",
     "section": "",
-    "text": "Overview\nIn this talk, Marco Bravo will explore the challenges of integrating smart devices across different platforms and brands, highlighting the limitations of using cloud-based services for smart home automation. He will introduce the concept of smart hubs, which centralize control and allow for better privacy and flexibility. Marco will share his experience setting up his own smart home, focusing on Home Assistant, a private local cloud solution, and offer insights into overcoming common obstacles in smart device integration.\n\n\nEvent details\nDate: April 11th, 2024 Location: UBC Vancouver Campus - Forestry Building\n\n\nVideo\n\n\n\n\nSlides"
+    "text": "Overview\n\nIn this talk, Marco Bravo will explore the challenges of integrating smart devices across different platforms and brands, highlighting the limitations of using cloud-based services for smart home automation. He will introduce the concept of smart hubs, which centralize control and allow for better privacy and flexibility. Marco will share his experience setting up his own smart home, focusing on Home Assistant, a private local cloud solution, and offer insights into overcoming common obstacles in smart device integration.\n\n\n\nEvent details\nDate: April 11th, 2024 Location: UBC Vancouver Campus - Forestry Building\n\n\nVideo\n\n\n\n\nSlides"
   }
 ]

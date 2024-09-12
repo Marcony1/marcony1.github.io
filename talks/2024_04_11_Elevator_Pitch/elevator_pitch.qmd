@@ -12,7 +12,10 @@ resources: [elevator_pitch.jpg]
 ---
 
 ### Overview 
+<div style="text-align: justify;">
 In this talk, Marco Bravo will explore the challenges of integrating smart devices across different platforms and brands, highlighting the limitations of using cloud-based services for smart home automation. He will introduce the concept of smart hubs, which centralize control and allow for better privacy and flexibility. Marco will share his experience setting up his own smart home, focusing on Home Assistant, a private local cloud solution, and offer insights into overcoming common obstacles in smart device integration.
+</div>
+
 
 ### Event details
 **Date:** April 11th, 2024 
