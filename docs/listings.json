@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/talks.html",
+    "items": [
+      "/talks/2024_04_11_Elevator_Pitch/elevator_pitch.html"
+    ]
+  },
+  {
     "listing": "/posts.html",
     "items": [
       "/posts/2024_04_18_Home_Assistant/home_assistant.html",

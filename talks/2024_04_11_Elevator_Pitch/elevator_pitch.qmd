@@ -1,0 +1,27 @@
+---
+title: "Elevator Pitch - Home Assistant"
+description: |
+  MDS talk about Home Assistant and my experience automating my home appliances.
+author: "Marco Bravo"
+date: "2024-04-11"
+categories: 
+- Home Assitant
+- Home Automation
+image: "elevator_pitch.jpg"
+resources: [elevator_pitch.jpg]
+---
+
+### Overview 
+In this talk, Marco Bravo will explore the challenges of integrating smart devices across different platforms and brands, highlighting the limitations of using cloud-based services for smart home automation. He will introduce the concept of smart hubs, which centralize control and allow for better privacy and flexibility. Marco will share his experience setting up his own smart home, focusing on Home Assistant, a private local cloud solution, and offer insights into overcoming common obstacles in smart device integration.
+
+### Event details
+**Date:** April 11th, 2024 
+**Location:** UBC Vancouver Campus - Forestry Building
+
+### Video
+<iframe src='https://youtu.be/C20g6TPIE24' frameborder='0' width='100%' height='1000'></iframe>
+
+
+### Slides
+<iframe class="slide-deck ar4x3" src="https://marcony1.github.io/talks/2024_04_11_Elevator_Pitch/Slide_Home-Assistant.pdf" title="Elevator Pitch - Home Assistant">
+</iframe>
