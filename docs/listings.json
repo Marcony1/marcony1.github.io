@@ -1,18 +1,20 @@
 [
   {
     "listing": "/posts.html",
-    "items": []
+    "items": [
+      "/posts/2024_06_26_drillsense/drillsense.html"
+    ]
   },
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/drillsense/drillsense.html",
-      "/projects/dsensegif/dsensegif.html",
-      "/projects/mexico_census/mexico_census.html",
-      "/projects/solar_savers/solar_savers.html",
-      "/projects/visumorph/visumorph.html",
-      "/projects/bank_marketing_analysis/bank_marketing_analysis.html",
-      "/projects/sarlaft/sarlaft.html"
+      "/projects/2024_06_26_drillsense/drillsense.html",
+      "/projects/2024_06_24_dsensegif/dsensegif.html",
+      "/projects/2024_04_24_mexico_census/mexico_census.html",
+      "/projects/2024_04_20_solar_savers/solar_savers.html",
+      "/projects/2024_02_03_visumorph/visumorph.html",
+      "/projects/2023_12_09_bank_marketing_analysis/bank_marketing_analysis.html",
+      "/projects/2022_11_14_sarlaft/sarlaft.html"
     ]
   }
 ]

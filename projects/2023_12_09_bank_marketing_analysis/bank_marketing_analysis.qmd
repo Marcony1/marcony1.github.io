@@ -1,0 +1,27 @@
+---
+title: "Predicting Bank Marketing Success on Term Deposit Subscription"
+author: ["Marco Bravo", "Nasim Ghazanfari Nasrabadi", "Shizhe Zhang", "Celeste Zhao"]
+date: "2023-12-09"
+categories: [Banking, Analysis, Visualization, Finance, KNN, Naive Bayes, Feature Importance, Decision Tree, Docker, Tests]
+image: "banking.jpg"
+resources: banking.jpg
+---
+<div style="text-align: justify;">
+In this analysis, we attempt to build a predictive model aimed at determining whether a client will subscribe to a term deposit, utilizing the data associated with direct marketing campaigns, specifically phone calls, in a Portuguese banking institution.
+</div>
+
+
+<div style="text-align: justify;">
+After exploring on several models (logistic regression, KNN, decision tree, naive Bayers), we have selected the logistic regression model as our primary predictive tool. The final model performs fairly well when tested on an unseen dataset, achieving the highest AUC (Area Under the Curve) of 0.899. This exceptional AUC score underscores the model's capacity to effectively differentiate between positive and negative outcomes. Notably, certain factors such as last contact duration, last contact month of the year and the clients' types of jobs play a significant role in influencing the classification decision.
+
+The dataset used in this project originates from the Bank Marketing dataset created by S. Moro, P. Rita and P. Cortez at Iscte - University Institute of Lisbon. This dataset is accessible through the UCI Machine Learning Repository and can be accessed [here](https://archive.ics.uci.edu/dataset/222/bank+marketing). Among the four available datasets, we have utilized [bank-full.csv](https://archive.ics.uci.edu/static/public/222/data.csv) which contains all examples and 17 inputs. Each row in the dataset represents an individual client data including the personal details (e.g., age, occupation, loan status, etc.), information regarding their response to the marketing campaign (e.g., outcomes of the previous marketing campaign, number of contacts made during the current campaign, etc.), and the eventual subscription outcome for the term deposit.
+</div>
+
+## Report
+<div style="text-align: justify;">
+The final report can be found [here](https://ubc-mds.github.io/bank-marketing-analysis/).
+</div>
+
+![](banking.jpg)
+
+## [Repository](https://github.com/UBC-MDS/bank-marketing-analysis)

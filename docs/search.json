@@ -56,74 +56,67 @@
     "text": "Personal Projects\nSmart home automation with Home Assistant open-source software and AWS\n2021\n- Created a local server with a Raspberry Pi and configured Home Assistant open-source software to control smart home devices locally without proprietary apps. - Developed an AWS Lambda function to connect Alexa with the local ecosystem for voice control of smart devices.\nAndroid devices personalization and data extraction\n- Enabled Google Services on unsupported devices (e.g., Huawei P40/Huawei P40 Pro).\n- Extracted stored WiFi credentials from Android devices without rooting them via data mining."
   },
   {
-    "objectID": "projects/visumorph/visumorph.html",
-    "href": "projects/visumorph/visumorph.html",
+    "objectID": "projects/2024_06_26_drillsense/drillsense.html",
+    "href": "projects/2024_06_26_drillsense/drillsense.html",
+    "title": "Project Drillsense",
+    "section": "",
+    "text": "Rio Tinto Exploration is tasked with identifying and prioritizing mineral exploration projects globally. Mineral exploration discoveries primarily occur through drilling.\n\nIn Project DrillSense we deliver a dynamic and predictive solution that enables Rio Tinto to monitor and analyze drilling trends more effectively. Our data product is designed to answer three critical questions: it identifies current global trends in drilling, allows for the assessment of diverse trends across different metals, and offers predictions for upcoming drilling sites. This balanced approach ensures Rio Tinto can make well-informed decisions based on the insights available.\n\n\nDashboard Overview\n\nDisclaimer: This project belongs to RioTinto and everything contained in the project repository must remain private. Only a general overview of the project will be given.\n\n\nData product\nThe Data Product consists of:\n\nDashboard\nFinal report The final report provides a comprehensive analysis and summary of the project findings.\nNotebooks Notebooks used for data cleaning, analysis, visualization and models. These notebooks provide detailed insights and the code used for the project. Feasibility tests and analyses are also available in the archived notebooks in the repository.\nMiro board\nTechnical document\n\n\n\nProject Organization\n\n\n\nContributions"
+  },
+  {
+    "objectID": "projects/2024_04_24_mexico_census/mexico_census.html",
+    "href": "projects/2024_04_24_mexico_census/mexico_census.html",
+    "title": "2020 Mexico Census",
+    "section": "",
+    "text": "Target audience: Socioeconomic researchers and policy makers.\n\nThe fourth demographic transition has reached many of the most modern and developed economies. However, for those countries that are still developing, the transition is not at a homogeneous stage across the country. In plain terms, the number of children couples are having, the number of elderly (as well as their mean ages) and internal migration vary from region to region as an indicator of access to health services, quality of life, level of development of the place, etc. This app allows the user to view the data set of INEGI’s 2020 Mexican Population Census to identify risk factors to anticipate and develop more effective policies. This dashboard allows visualizing different characteristics of the Mexican population with respect to its location.\n\n\nApp description\n\n\n\nDashboard Demo\n\n\n\n\nDeployment\n\n\nRepository"
+  },
+  {
+    "objectID": "projects/2024_02_03_visumorph/visumorph.html",
+    "href": "projects/2024_02_03_visumorph/visumorph.html",
     "title": "VisuMorph",
     "section": "",
     "text": "VisuMorph is a powerful, user-friendly Python package designed for image manipulation. It simplifies image processing tasks, allowing users to effortlessly apply transformations and adjustments to their images. With its intuitive interface and a wide range of functionalities, VisuMorph is ideal for both hobbyists and professionals looking to enhance their digital imagery."
   },
   {
-    "objectID": "projects/visumorph/visumorph.html#features",
-    "href": "projects/visumorph/visumorph.html#features",
+    "objectID": "projects/2024_02_03_visumorph/visumorph.html#features",
+    "href": "projects/2024_02_03_visumorph/visumorph.html#features",
     "title": "VisuMorph",
     "section": "Features",
     "text": "Features\n\nVisuMorph includes a variety of functions for image manipulation:\n\nFlipping(flip): Horizontally or vertically flip images, useful for creating mirror effects or correcting orientation.\nRotating(rotate): Rotate images by a specified degree, supporting both clockwise and anticlockwise rotations.\nHue Change(change_hue): Adjust the hue of images, allowing for color shifting and mood setting in visuals.\nScaling(scale): Resize images, either uniformly or non-uniformly, without losing the essence of the visual content."
   },
   {
-    "objectID": "projects/visumorph/visumorph.html#position-in-the-python-ecosystem",
-    "href": "projects/visumorph/visumorph.html#position-in-the-python-ecosystem",
+    "objectID": "projects/2024_02_03_visumorph/visumorph.html#position-in-the-python-ecosystem",
+    "href": "projects/2024_02_03_visumorph/visumorph.html#position-in-the-python-ecosystem",
     "title": "VisuMorph",
     "section": "Position in the Python Ecosystem",
     "text": "Position in the Python Ecosystem\n\nVisuMorph, while a robust tool for image manipulation, is designed primarily as an educational project for the 524 course in the Master of Data Science program. It serves as an introductory tool for those beginning their journey in data science and image processing. While it offers a range of functionalities, it is more limited in scope compared to professional-grade packages like PIL (Python Imaging Library) and OpenCV. These larger libraries offer a wider range of complex functionalities and are suited for industrial applications. However, VisuMorph stands out for its simplicity and ease of use, making it an excellent starting point for students and hobbyists looking to understand the basics of image manipulation in Python."
   },
   {
-    "objectID": "projects/visumorph/visumorph.html#documentation",
-    "href": "projects/visumorph/visumorph.html#documentation",
+    "objectID": "projects/2024_02_03_visumorph/visumorph.html#documentation",
+    "href": "projects/2024_02_03_visumorph/visumorph.html#documentation",
     "title": "VisuMorph",
     "section": "Documentation",
     "text": "Documentation\n\nThe full documentation including installation guides, example usages, and API references is hosted on ReadTheDocs and can be found here."
   },
   {
-    "objectID": "projects/visumorph/visumorph.html#repository",
-    "href": "projects/visumorph/visumorph.html#repository",
+    "objectID": "projects/2024_02_03_visumorph/visumorph.html#repository",
+    "href": "projects/2024_02_03_visumorph/visumorph.html#repository",
     "title": "VisuMorph",
     "section": "Repository",
     "text": "Repository"
   },
   {
-    "objectID": "projects/sarlaft/sarlaft.html",
-    "href": "projects/sarlaft/sarlaft.html",
+    "objectID": "projects/2022_11_14_sarlaft/sarlaft.html",
+    "href": "projects/2022_11_14_sarlaft/sarlaft.html",
     "title": "SARLAFT",
     "section": "",
-    "text": "Clustering of financial information of Grupo Bancolombia in compliance with SARLAFT.\n\nDuring my time as a Data Scientist at DataKnow, I led end-to-end projects on predictive modeling and machine learning. One of these had the purpose of fighting against Money Laundering and Terrorism by using and evaluating the performance of clustering algorithms where NLP and text mining were key in extracting useful information from the data. The whole workflow of the project was designed from scratch, from the obtaining of the raw data, its standardization through null and outlier handling, its classification for further processing, and the delivery of key insights, an artifact and documentation to the stakeholders.\n\n\nProject Description\n\n\n\n\n\nDisclaimer: GitHub Repository cannot be shared."
+    "text": "During my time as a Data Scientist at DataKnow, I led end-to-end projects on predictive modeling and machine learning. One of these had the purpose of fighting against Money Laundering and Terrorism by using and evaluating the performance of clustering algorithms where NLP and text mining were key in extracting useful information from the data. The whole workflow of the project was designed from scratch, from the obtaining of the raw data, its standardization through null and outlier handling, its classification for further processing, and the delivery of key insights, an artifact and documentation to the stakeholders.\n\n\nProject Description\n\n\n\n\n\nDisclaimer: GitHub Repository cannot be shared."
   },
   {
-    "objectID": "projects/dsensegif/dsensegif.html",
-    "href": "projects/dsensegif/dsensegif.html",
-    "title": "Dsensegif",
+    "objectID": "posts/2024_06_26_drillsense/drillsense.html",
+    "href": "posts/2024_06_26_drillsense/drillsense.html",
+    "title": "Project Drillsense",
     "section": "",
-    "text": "Mini auxiliary project that helps to generate QR codes that direct the user to images that are already hosted in a website/repository. This project uses the qrcode library.\n\n\nUsage instructions\n\n\nClone the repository:\n$ git clone git@github.com:Marcony1/dsensegif.git\nCreate and activate the conda environment after changing directory to the root of the repo:\n$ conda env create --file environment.yml\n$ conda activate dsensegif\nOpen generate_qr.py and replace the url string assigned to gif_url with the url of the image for which you want to generate the QR code. Save this file.\nFrom the root of the directory run:\n$ python generate_qr.py\nYou will find your generated QR code under the folder results and with the name qrcode.png.\n\n\n\nDemo Image\n\n\n\nRepository"
-  },
-  {
-    "objectID": "projects/bank_marketing_analysis/bank_marketing_analysis.html",
-    "href": "projects/bank_marketing_analysis/bank_marketing_analysis.html",
-    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
-    "section": "",
-    "text": "In this analysis, we attempt to build a predictive model aimed at determining whether a client will subscribe to a term deposit, utilizing the data associated with direct marketing campaigns, specifically phone calls, in a Portuguese banking institution."
-  },
-  {
-    "objectID": "projects/bank_marketing_analysis/bank_marketing_analysis.html#report",
-    "href": "projects/bank_marketing_analysis/bank_marketing_analysis.html#report",
-    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
-    "section": "Report",
-    "text": "Report\n\nThe final report can be found here."
-  },
-  {
-    "objectID": "projects/bank_marketing_analysis/bank_marketing_analysis.html#repository",
-    "href": "projects/bank_marketing_analysis/bank_marketing_analysis.html#repository",
-    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
-    "section": "Repository",
-    "text": "Repository"
+    "text": "Rio Tinto Exploration is tasked with identifying and prioritizing mineral exploration projects globally. Mineral exploration discoveries primarily occur through drilling.\n\nIn Project DrillSense we deliver a dynamic and predictive solution that enables Rio Tinto to monitor and analyze drilling trends more effectively. Our data product is designed to answer three critical questions: it identifies current global trends in drilling, allows for the assessment of diverse trends across different metals, and offers predictions for upcoming drilling sites. This balanced approach ensures Rio Tinto can make well-informed decisions based on the insights available.\n\n\nDashboard Overview\n\nDisclaimer: This project belongs to RioTinto and everything contained in the project repository must remain private. Only a general overview of the project will be given.\n\n\nData product\nThe Data Product consists of:\n\nDashboard\nFinal report The final report provides a comprehensive analysis and summary of the project findings.\nNotebooks Notebooks used for data cleaning, analysis, visualization and models. These notebooks provide detailed insights and the code used for the project. Feasibility tests and analyses are also available in the archived notebooks in the repository.\nMiro board\nTechnical document\n\n\n\nProject Organization\n\n\n\nContributions"
   },
   {
     "objectID": "index.html",
@@ -158,34 +151,48 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "No matching items"
+    "text": "Project Drillsense\n\n\n\n\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nMining\n\n\nGeojson\n\n\nPrediction\n\n\nMachine Learning\n\n\nTime Series\n\n\nDash\n\n\n\n\n\n\n\n\n\n\n\nJun 26, 2024\n\n\nMarco Bravo, Aishwarya Nadimpally, Anu Banga, Weiran Zhao\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/drillsense/drillsense.html",
-    "href": "projects/drillsense/drillsense.html",
-    "title": "Project Drillsense",
+    "objectID": "projects/2023_12_09_bank_marketing_analysis/bank_marketing_analysis.html",
+    "href": "projects/2023_12_09_bank_marketing_analysis/bank_marketing_analysis.html",
+    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
     "section": "",
-    "text": "Rio Tinto Exploration is tasked with identifying and prioritizing mineral exploration projects globally. Mineral exploration discoveries primarily occur through drilling.\n\nIn Project DrillSense we deliver a dynamic and predictive solution that enables Rio Tinto to monitor and analyze drilling trends more effectively. Our data product is designed to answer three critical questions: it identifies current global trends in drilling, allows for the assessment of diverse trends across different metals, and offers predictions for upcoming drilling sites. This balanced approach ensures Rio Tinto can make well-informed decisions based on the insights available.\n\n\nDashboard Overview\n\nDisclaimer: This project belongs to RioTinto and everything contained in the project repository must remain private. Only a general overview of the project will be given.\n\n\nData product\nThe Data Product consists of:\n\nDashboard\nFinal report The final report provides a comprehensive analysis and summary of the project findings.\nNotebooks Notebooks used for data cleaning, analysis, visualization and models. These notebooks provide detailed insights and the code used for the project. Feasibility tests and analyses are also available in the archived notebooks in the repository.\nMiro board\nTechnical document\n\n\n\nProject Organization\n\n\n\nContributions"
+    "text": "In this analysis, we attempt to build a predictive model aimed at determining whether a client will subscribe to a term deposit, utilizing the data associated with direct marketing campaigns, specifically phone calls, in a Portuguese banking institution."
   },
   {
-    "objectID": "projects/mexico_census/mexico_census.html",
-    "href": "projects/mexico_census/mexico_census.html",
-    "title": "2020 Mexico Census",
-    "section": "",
-    "text": "Target audience: Socioeconomic researchers and policy makers.\n\nThe fourth demographic transition has reached many of the most modern and developed economies. However, for those countries that are still developing, the transition is not at a homogeneous stage across the country. In plain terms, the number of children couples are having, the number of elderly (as well as their mean ages) and internal migration vary from region to region as an indicator of access to health services, quality of life, level of development of the place, etc. This app allows the user to view the data set of INEGI’s 2020 Mexican Population Census to identify risk factors to anticipate and develop more effective policies. This dashboard allows visualizing different characteristics of the Mexican population with respect to its location.\n\n\nApp description\n\n\n\nDashboard Demo\n\n\n\n\nDeployment\n\n\nRepository"
+    "objectID": "projects/2023_12_09_bank_marketing_analysis/bank_marketing_analysis.html#report",
+    "href": "projects/2023_12_09_bank_marketing_analysis/bank_marketing_analysis.html#report",
+    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
+    "section": "Report",
+    "text": "Report\n\nThe final report can be found here."
   },
   {
-    "objectID": "projects/solar_savers/solar_savers.html",
-    "href": "projects/solar_savers/solar_savers.html",
+    "objectID": "projects/2023_12_09_bank_marketing_analysis/bank_marketing_analysis.html#repository",
+    "href": "projects/2023_12_09_bank_marketing_analysis/bank_marketing_analysis.html#repository",
+    "title": "Predicting Bank Marketing Success on Term Deposit Subscription",
+    "section": "Repository",
+    "text": "Repository"
+  },
+  {
+    "objectID": "projects/2024_04_20_solar_savers/solar_savers.html",
+    "href": "projects/2024_04_20_solar_savers/solar_savers.html",
     "title": "Solar Savers",
     "section": "",
     "text": "A dashboard application helping Canadian homeowners in solar panel purchasing decisions.\n\n❌ The Problem The global need to shift towards sustainable energy sources has been recognized for decades, but its urgency continues to escalate. At the consumer-level, this problem is compounded by the rise in inflation and challenging decisions required when purchasing items like solar panels.\n✅ Our Solution With this escalating inflation and growing environmental consciousness, consumers across Canada seek to save money where they can. Solar Savers, a user-friendly app, is designed to better equip homeowners in the decision-making process of purchasing solar panels for their home. With user’s location, electricity rates, and panel quality, Solar Savers allows users to see their potential electricity and financial savings. It provides the required knowledge to assess the value of investing in solar panels and facilitates the decision-making process overall.\n\n\nDashboard Overview\n\n\n\nDeployment\n\n\nRepository"
+  },
+  {
+    "objectID": "projects/2024_06_24_dsensegif/dsensegif.html",
+    "href": "projects/2024_06_24_dsensegif/dsensegif.html",
+    "title": "Dsensegif",
+    "section": "",
+    "text": "Mini auxiliary project that helps to generate QR codes that direct the user to images that are already hosted in a website/repository. This project uses the qrcode library.\n\n\nUsage instructions\n\n\nClone the repository:\n$ git clone git@github.com:Marcony1/dsensegif.git\nCreate and activate the conda environment after changing directory to the root of the repo:\n$ conda env create --file environment.yml\n$ conda activate dsensegif\nOpen generate_qr.py and replace the url string assigned to gif_url with the url of the image for which you want to generate the QR code. Save this file.\nFrom the root of the directory run:\n$ python generate_qr.py\nYou will find your generated QR code under the folder results and with the name qrcode.png.\n\n\n\nDemo Image\n\n\n\nRepository"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Project Drillsense\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nMining\n\n\nGeojson\n\n\nPrediction\n\n\nMachine Learning\n\n\nTime Series\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Aishwarya Nadimpally, Anu Banga, Weiran Zhao\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDsensegif\n\n\n\nCode\n\n\nManipulation\n\n\nQR\n\n\n\n\n\n\n\nMarco Bravo\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Mexico Census\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nActuarial\n\n\nPopulation\n\n\nGeojson\n\n\nRShiny\n\n\n\n\n\n\n\nMarco Bravo\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolar Savers\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nSunlight\n\n\nGeojson\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Nicole Bidwell, Rafe Chang, Sam Fo\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisuMorph\n\n\n\nImage Manipulation\n\n\nPoetry\n\n\nTests\n\n\nPyTest\n\n\nCookiecutter\n\n\nOpenCV\n\n\nPIL\n\n\nPackage Development\n\n\nPyPI\n\n\nReadtheDocs\n\n\n\n\n\n\n\nOrix Au Yeung, Marco Bravo, Atabak Alishiri, Shawn Hu\n\n\nFeb 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Bank Marketing Success on Term Deposit Subscription\n\n\n\nBanking\n\n\nAnalysis\n\n\nVisualization\n\n\nFinance\n\n\nKNN\n\n\nNaive Bayes\n\n\nFeature Importance\n\n\nDecision Tree\n\n\nDocker\n\n\nTests\n\n\n\n\n\n\n\nMarco Bravo, Nasim Ghazanfari Nasrabadi, Shizhe Zhang, Celeste Zhao\n\n\nDec 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSARLAFT\n\n\n\nCode\n\n\nAnalysis\n\n\nClustering\n\n\nVisualization\n\n\nRisk\n\n\nMachine Learning\n\n\nPipelines\n\n\nUnsupervised Learning\n\n\n\n\n\n\n\nMarco Bravo, Nicolás Hernández\n\n\nNov 14, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Project Drillsense\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nMining\n\n\nGeojson\n\n\nPrediction\n\n\nMachine Learning\n\n\nTime Series\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Aishwarya Nadimpally, Anu Banga, Weiran Zhao\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDsensegif\n\n\n\nCode\n\n\nManipulation\n\n\nQR\n\n\n\n\n\n\n\nMarco Bravo\n\n\nJun 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Mexico Census\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nActuarial\n\n\nPopulation\n\n\nGeojson\n\n\nRShiny\n\n\n\n\n\n\n\nMarco Bravo\n\n\nApr 24, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSolar Savers\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nSunlight\n\n\nGeojson\n\n\nDash\n\n\n\n\n\n\n\nMarco Bravo, Nicole Bidwell, Rafe Chang, Sam Fo\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisuMorph\n\n\n\nImage Manipulation\n\n\nPoetry\n\n\nTests\n\n\nPyTest\n\n\nCookiecutter\n\n\nOpenCV\n\n\nPIL\n\n\nPackage Development\n\n\nPyPI\n\n\nReadtheDocs\n\n\n\n\n\n\n\nOrix Au Yeung, Marco Bravo, Atabak Alishiri, Shawn Hu\n\n\nFeb 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredicting Bank Marketing Success on Term Deposit Subscription\n\n\n\nBanking\n\n\nAnalysis\n\n\nVisualization\n\n\nFinance\n\n\nKNN\n\n\nNaive Bayes\n\n\nFeature Importance\n\n\nDecision Tree\n\n\nDocker\n\n\nTests\n\n\n\n\n\n\n\nMarco Bravo, Nasim Ghazanfari Nasrabadi, Shizhe Zhang, Celeste Zhao\n\n\nDec 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSARLAFT\n\n\n\nCode\n\n\nAnalysis\n\n\nClustering\n\n\nVisualization\n\n\nRisk\n\n\nMachine Learning\n\n\nPipelines\n\n\nUnsupervised Learning\n\n\n\nClustering of financial information of Grupo Bancolombia in compliance with SARLAFT.\n\n\n\nMarco Bravo, Nicolás Hernández\n\n\nNov 14, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
