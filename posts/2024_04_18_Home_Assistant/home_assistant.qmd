@@ -3,7 +3,7 @@ title: "Making your home smarter than you"
 description: |
   Medium blog where I talk about my experience automating my home.
 author: "Marco Bravo"
-date: "2024-06-26"
+date: "2024-04-18"
 categories: 
 - Home Automation
 - Raspberry Pi
