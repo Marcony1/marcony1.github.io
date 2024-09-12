@@ -13,5 +13,7 @@ resources: [home_assistant.jpg]
 ---
 
 ### My Medium Blog Post
+Check out my blog post on Medium by clicking [here](https://medium.com/@marco.bravoml/making-your-home-smarter-than-you-6ffb89d93af3).
+
 
 <iframe src='https://widgets.sociablekit.com/medium-post/iframe/25461801' frameborder='0' width='100%' height='1000'></iframe>
