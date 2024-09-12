@@ -116,7 +116,7 @@
     "href": "posts/2024_04_18_Home_Assistant/home_assistant.html",
     "title": "Making your home smarter than you",
     "section": "",
-    "text": "https://medium.com/@marco.bravoml/making-your-home-smarter-than-you-6ffb89d93af3\n\nIn Project DrillSense we deliver a dynamic and predictive solution that enables Rio Tinto to monitor and analyze drilling trends more effectively. Our data product is designed to answer three critical questions: it identifies current global trends in drilling, allows for the assessment of diverse trends across different metals, and offers predictions for upcoming drilling sites. This balanced approach ensures Rio Tinto can make well-informed decisions based on the insights available.\n\n\nDashboard Overview\n\nDisclaimer: This project belongs to RioTinto and everything contained in the project repository must remain private. Only a general overview of the project will be given.\n\n\nData product\nThe Data Product consists of:\n\nDashboard\nFinal report The final report provides a comprehensive analysis and summary of the project findings.\nNotebooks Notebooks used for data cleaning, analysis, visualization and models. These notebooks provide detailed insights and the code used for the project. Feasibility tests and analyses are also available in the archived notebooks in the repository.\nMiro board\nTechnical document\n\n\n\nProject Organization\n\n\n\nContributions"
+    "text": "https://medium.com/@marco.bravoml/making-your-home-smarter-than-you-6ffb89d93af3"
   },
   {
     "objectID": "index.html",
@@ -151,7 +151,7 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "Making your home smarter than you\n\n\n\n\n\n\n\nCode\n\n\nAnalysis\n\n\nDashboard\n\n\nVisualization\n\n\nMining\n\n\nGeojson\n\n\nPrediction\n\n\nMachine Learning\n\n\nTime Series\n\n\nDash\n\n\n\n\nMedium blog where I talk about my experience automating my home.\n\n\n\n\n\n\nJun 26, 2024\n\n\nMarco Bravo\n\n\n\n\n\n\nNo matching items"
+    "text": "Making your home smarter than you\n\n\n\n\n\n\n\nHome Automation\n\n\nRaspberry Pi\n\n\nAlexa\n\n\n\n\nMedium blog where I talk about my experience automating my home.\n\n\n\n\n\n\nJun 26, 2024\n\n\nMarco Bravo\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/2023_12_09_bank_marketing_analysis/bank_marketing_analysis.html",
