@@ -1,14 +1,25 @@
 ---
-title: "Project Drillsense"
-author: ["Marco Bravo", "Aishwarya Nadimpally", "Anu Banga", "Weiran Zhao"]
+title: "Making your home smarter than you"
+description: |
+  Medium blog where I talk about my experience automating my home.
+author: "Marco Bravo"
 date: "2024-06-26"
-categories: [Code, Analysis, Dashboard, Visualization, Mining, Geojson, Prediction, Machine Learning, Time Series, Dash]
+categories: 
+- Code
+- Analysis
+- Dashboard
+- Visualization
+- Mining
+- Geojson
+- Prediction
+- Machine Learning
+- Time Series
+- Dash
 image: "drillsense.gif"
 resources: [drillsense.gif, contributions.png, project_org.jpg]
 ---
 
-Rio Tinto Exploration is tasked with identifying and prioritizing mineral exploration projects globally. Mineral exploration discoveries primarily occur through drilling. 
-
+https://medium.com/@marco.bravoml/making-your-home-smarter-than-you-6ffb89d93af3
 
 <div style="text-align: justify;">
 In Project DrillSense we deliver a dynamic and predictive solution that enables Rio Tinto to monitor and analyze drilling trends more effectively. Our data product is designed to answer three critical questions: it identifies current global trends in drilling, allows for the assessment of diverse trends across different metals, and offers predictions for upcoming drilling sites. This balanced approach ensures Rio Tinto can make well-informed decisions based on the insights available.
