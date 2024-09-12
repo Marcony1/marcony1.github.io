@@ -1,7 +1,7 @@
 ---
 title: "Posts"
 listing: 
-  type: grid
+  type: default
   contents: posts
   sort: "date desc"
   categories: true
