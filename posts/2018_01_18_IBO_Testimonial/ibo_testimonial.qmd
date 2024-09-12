@@ -1,0 +1,18 @@
+---
+title: "International Baccalaureate Testimony"
+description: |
+  My experience as an International Baccalaureate student.
+author: "Marco Bravo"
+date: "2018-01-18"
+categories: 
+- International Baccalaureate
+- Testimony
+image: "ibo_testimonial.jpg"
+resources: [ibo_testimonial.jpg]
+---
+
+### My IBO Testimony
+Check out my testimony on IBO's website by clicking [here](https://www.ibo.org/programme-stories/dp-stories/marco-polo-bravo-montiel/).
+
+
+<iframe src='https://www.ibo.org/programme-stories/dp-stories/marco-polo-bravo-montiel/' frameborder='0' width='100%' height='1000'></iframe>
