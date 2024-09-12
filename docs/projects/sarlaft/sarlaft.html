@@ -7,9 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Marco Bravo">
-<meta name="dcterms.date" content="2024-04-24">
+<meta name="author" content="Nicolás Hernández">
+<meta name="dcterms.date" content="2022-11-14">
 
-<title>Marco Bravo - 2020 Mexico Census</title>
+<title>Marco Bravo - SARLAFT</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -107,6 +108,10 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
     <a class="nav-link" href="../../projects.html" rel="" target="">
  <span class="menu-text">Projects</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../posts.html" rel="" target="">
+ <span class="menu-text">Posts</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -141,9 +146,7 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#app-description" id="toc-app-description" class="nav-link active" data-scroll-target="#app-description">App description</a></li>
-  <li><a href="#deployment" id="toc-deployment" class="nav-link" data-scroll-target="#deployment">Deployment</a></li>
-  <li><a href="#repository" id="toc-repository" class="nav-link" data-scroll-target="#repository">Repository</a></li>
+  <li><a href="#project-description" id="toc-project-description" class="nav-link active" data-scroll-target="#project-description">Project Description</a></li>
   </ul>
 </nav>
     </div>
@@ -152,16 +155,16 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">2020 Mexico Census</h1>
+<h1 class="title">SARLAFT</h1>
   <div class="quarto-categories">
     <div class="quarto-category">Code</div>
     <div class="quarto-category">Analysis</div>
-    <div class="quarto-category">Dashboard</div>
+    <div class="quarto-category">Clustering</div>
     <div class="quarto-category">Visualization</div>
-    <div class="quarto-category">Actuarial</div>
-    <div class="quarto-category">Population</div>
-    <div class="quarto-category">Geojson</div>
-    <div class="quarto-category">RShiny</div>
+    <div class="quarto-category">Risk</div>
+    <div class="quarto-category">Machine Learning</div>
+    <div class="quarto-category">Pipelines</div>
+    <div class="quarto-category">Unsupervised Learning</div>
   </div>
   </div>
 
@@ -170,16 +173,17 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
 <div class="quarto-title-meta">
 
     <div>
-    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-heading">Authors</div>
     <div class="quarto-title-meta-contents">
              <p>Marco Bravo </p>
+             <p>Nicolás Hernández </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">April 24, 2024</p>
+      <p class="date">November 14, 2022</p>
     </div>
   </div>
   
@@ -189,24 +193,18 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
 
 </header>
 
-<p>Target audience: Socioeconomic researchers and policy makers.</p>
+<p>Clustering of financial information of Grupo Bancolombia in compliance with SARLAFT.</p>
 <div style="text-align: justify;">
-<p>The fourth demographic transition has reached many of the most modern and developed economies. However, for those countries that are still developing, the transition is not at a homogeneous stage across the country. In plain terms, the number of children couples are having, the number of elderly (as well as their mean ages) and internal migration vary from region to region as an indicator of access to health services, quality of life, level of development of the place, etc. This app allows the user to view the data set of <a href="https://www.inegi.org.mx/app/descarga/ficha.html?tit=326108&amp;ag=0&amp;f=csv">INEGI’s 2020 Mexican Population Census</a> to identify risk factors to anticipate and develop more effective policies. This dashboard allows visualizing different characteristics of the Mexican population with respect to its location.</p>
+<p>During my time as a Data Scientist at DataKnow, I led end-to-end projects on predictive modeling and machine learning. One of these had the purpose of fighting against Money Laundering and Terrorism by using and evaluating the performance of clustering algorithms where NLP and text mining were key in extracting useful information from the data. The whole workflow of the project was designed from scratch, from the obtaining of the raw data, its standardization through null and outlier handling, its classification for further processing, and the delivery of key insights, an artifact and documentation to the stakeholders.</p>
 </div>
-<section id="app-description" class="level3">
-<h3 class="anchored" data-anchor-id="app-description">App description</h3>
+<section id="project-description" class="level3">
+<h3 class="anchored" data-anchor-id="project-description">Project Description</h3>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="http://www.youtube.com/watch?v=390M7MEkWjI" title="2020 Mexico Census"><img src="http://img.youtube.com/vi/390M7MEkWjI/0.jpg" class="img-fluid figure-img"></a></p>
-<figcaption class="figure-caption">Dashboard Demo</figcaption>
+<p><a href="https://www.youtube.com/watch?v=1CjdyCgWKC8" title="2020 Mexico Census"><img src="http://img.youtube.com/vi/1CjdyCgWKC8/0.jpg" class="img-fluid figure-img"></a></p>
 </figure>
 </div>
-</section>
-<section id="deployment" class="level3">
-<h3 class="anchored" data-anchor-id="deployment"><a href="https://marcony1.shinyapps.io/2020_Mexico_Census/">Deployment</a></h3>
-</section>
-<section id="repository" class="level3">
-<h3 class="anchored" data-anchor-id="repository"><a href="https://github.com/Marcony1/2020_mexico_census">Repository</a></h3>
+<p><em>Disclaimer: GitHub Repository cannot be shared.</em></p>
 
 
 </section>

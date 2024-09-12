@@ -6,13 +6,13 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Orix Au Yeung">
 <meta name="author" content="Marco Bravo">
-<meta name="author" content="Aishwarya Nadimpally">
-<meta name="author" content="Anu Banga">
-<meta name="author" content="Weiran Zhao">
-<meta name="dcterms.date" content="2024-06-26">
+<meta name="author" content="Atabak Alishiri">
+<meta name="author" content="Shawn Hu">
+<meta name="dcterms.date" content="2024-02-03">
 
-<title>Marco Bravo - Project Drillsense</title>
+<title>Marco Bravo - VisuMorph</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -110,6 +110,10 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
     <a class="nav-link" href="../../projects.html" rel="" target="">
  <span class="menu-text">Projects</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../posts.html" rel="" target="">
+ <span class="menu-text">Posts</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -144,10 +148,10 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#dashboard-overview" id="toc-dashboard-overview" class="nav-link active" data-scroll-target="#dashboard-overview">Dashboard Overview</a></li>
-  <li><a href="#data-product" id="toc-data-product" class="nav-link" data-scroll-target="#data-product">Data product</a></li>
-  <li><a href="#project-organization" id="toc-project-organization" class="nav-link" data-scroll-target="#project-organization">Project Organization</a></li>
-  <li><a href="#contributions" id="toc-contributions" class="nav-link" data-scroll-target="#contributions">Contributions</a></li>
+  <li><a href="#features" id="toc-features" class="nav-link active" data-scroll-target="#features">Features</a></li>
+  <li><a href="#position-in-the-python-ecosystem" id="toc-position-in-the-python-ecosystem" class="nav-link" data-scroll-target="#position-in-the-python-ecosystem">Position in the Python Ecosystem</a></li>
+  <li><a href="#documentation" id="toc-documentation" class="nav-link" data-scroll-target="#documentation">Documentation</a></li>
+  <li><a href="#repository" id="toc-repository" class="nav-link" data-scroll-target="#repository">Repository</a></li>
   </ul>
 </nav>
     </div>
@@ -156,18 +160,18 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Project Drillsense</h1>
+<h1 class="title">VisuMorph</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Code</div>
-    <div class="quarto-category">Analysis</div>
-    <div class="quarto-category">Dashboard</div>
-    <div class="quarto-category">Visualization</div>
-    <div class="quarto-category">Mining</div>
-    <div class="quarto-category">Geojson</div>
-    <div class="quarto-category">Prediction</div>
-    <div class="quarto-category">Machine Learning</div>
-    <div class="quarto-category">Time Series</div>
-    <div class="quarto-category">Dash</div>
+    <div class="quarto-category">Image Manipulation</div>
+    <div class="quarto-category">Poetry</div>
+    <div class="quarto-category">Tests</div>
+    <div class="quarto-category">PyTest</div>
+    <div class="quarto-category">Cookiecutter</div>
+    <div class="quarto-category">OpenCV</div>
+    <div class="quarto-category">PIL</div>
+    <div class="quarto-category">Package Development</div>
+    <div class="quarto-category">PyPI</div>
+    <div class="quarto-category">ReadtheDocs</div>
   </div>
   </div>
 
@@ -178,17 +182,17 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Authors</div>
     <div class="quarto-title-meta-contents">
+             <p>Orix Au Yeung </p>
              <p>Marco Bravo </p>
-             <p>Aishwarya Nadimpally </p>
-             <p>Anu Banga </p>
-             <p>Weiran Zhao </p>
+             <p>Atabak Alishiri </p>
+             <p>Shawn Hu </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">June 26, 2024</p>
+      <p class="date">February 3, 2024</p>
     </div>
   </div>
   
@@ -198,33 +202,37 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
 
 </header>
 
-<p>Rio Tinto Exploration is tasked with identifying and prioritizing mineral exploration projects globally. Mineral exploration discoveries primarily occur through drilling.</p>
 <div style="text-align: justify;">
-<p>In Project DrillSense we deliver a dynamic and predictive solution that enables Rio Tinto to monitor and analyze drilling trends more effectively. Our data product is designed to answer three critical questions: it identifies current global trends in drilling, allows for the assessment of diverse trends across different metals, and offers predictions for upcoming drilling sites. This balanced approach ensures Rio Tinto can make well-informed decisions based on the insights available.</p>
+<p>VisuMorph is a powerful, user-friendly Python package designed for image manipulation. It simplifies image processing tasks, allowing users to effortlessly apply transformations and adjustments to their images. With its intuitive interface and a wide range of functionalities, VisuMorph is ideal for both hobbyists and professionals looking to enhance their digital imagery.</p>
 </div>
-<section id="dashboard-overview" class="level3">
-<h3 class="anchored" data-anchor-id="dashboard-overview">Dashboard Overview</h3>
-<p><img src="drillsense.gif" class="img-fluid"></p>
-<p><em>Disclaimer: This project belongs to RioTinto and everything contained in the project repository must remain private. Only a general overview of the project will be given.</em></p>
+<section id="features" class="level2">
+<h2 class="anchored" data-anchor-id="features">Features</h2>
+<div style="text-align: justify;">
+<p>VisuMorph includes a variety of functions for image manipulation:</p>
+<ul>
+<li>Flipping(flip): Horizontally or vertically flip images, useful for creating mirror effects or correcting orientation.</li>
+<li>Rotating(rotate): Rotate images by a specified degree, supporting both clockwise and anticlockwise rotations.</li>
+<li>Hue Change(change_hue): Adjust the hue of images, allowing for color shifting and mood setting in visuals.</li>
+<li>Scaling(scale): Resize images, either uniformly or non-uniformly, without losing the essence of the visual content.</li>
+</ul>
+</div>
 </section>
-<section id="data-product" class="level3">
-<h3 class="anchored" data-anchor-id="data-product">Data product</h3>
-<p>The Data Product consists of:</p>
-<ol type="1">
-<li><p>Dashboard</p></li>
-<li><p>Final report The final report provides a comprehensive analysis and summary of the project findings.</p></li>
-<li><p>Notebooks Notebooks used for data cleaning, analysis, visualization and models. These notebooks provide detailed insights and the code used for the project. Feasibility tests and analyses are also available in the archived notebooks in the repository.</p></li>
-<li><p>Miro board</p></li>
-<li><p>Technical document</p></li>
-</ol>
+<section id="position-in-the-python-ecosystem" class="level2">
+<h2 class="anchored" data-anchor-id="position-in-the-python-ecosystem">Position in the Python Ecosystem</h2>
+<div style="text-align: justify;">
+<p>VisuMorph, while a robust tool for image manipulation, is designed primarily as an educational project for the 524 course in the Master of Data Science program. It serves as an introductory tool for those beginning their journey in data science and image processing. While it offers a range of functionalities, it is more limited in scope compared to professional-grade packages like PIL (Python Imaging Library) and OpenCV. These larger libraries offer a wider range of complex functionalities and are suited for industrial applications. However, VisuMorph stands out for its simplicity and ease of use, making it an excellent starting point for students and hobbyists looking to understand the basics of image manipulation in Python.</p>
+</div>
 </section>
-<section id="project-organization" class="level3">
-<h3 class="anchored" data-anchor-id="project-organization">Project Organization</h3>
-<p><img src="project_org.jpg" class="img-fluid"></p>
+<section id="documentation" class="level2">
+<h2 class="anchored" data-anchor-id="documentation">Documentation</h2>
+<div style="text-align: justify;">
+<p>The full documentation including installation guides, example usages, and API references is hosted on ReadTheDocs and can be found <a href="https://visumorph.readthedocs.io/en/latest/">here</a>.</p>
+</div>
+<p><img src="visumorph.jpg" class="img-fluid"></p>
+<p><img src="documentation.jpg" class="img-fluid"></p>
 </section>
-<section id="contributions" class="level3">
-<h3 class="anchored" data-anchor-id="contributions">Contributions</h3>
-<p><img src="contributions.png" class="img-fluid"></p>
+<section id="repository" class="level2">
+<h2 class="anchored" data-anchor-id="repository"><a href="https://github.com/UBC-MDS/VisuMorph">Repository</a></h2>
 
 
 </section>

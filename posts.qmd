@@ -1,8 +1,8 @@
 ---
-title: "Projects"
+title: "Posts"
 listing: 
   type: grid
-  contents: projects
+  contents: posts
   sort: "date desc"
   categories: true
   sort-ui: false

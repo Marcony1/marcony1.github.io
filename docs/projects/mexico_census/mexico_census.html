@@ -6,13 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Orix Au Yeung">
 <meta name="author" content="Marco Bravo">
-<meta name="author" content="Atabak Alishiri">
-<meta name="author" content="Shawn Hu">
-<meta name="dcterms.date" content="2024-02-03">
+<meta name="dcterms.date" content="2024-04-24">
 
-<title>Marco Bravo - VisuMorph</title>
+<title>Marco Bravo - 2020 Mexico Census</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -110,6 +107,10 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
     <a class="nav-link" href="../../projects.html" rel="" target="">
  <span class="menu-text">Projects</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../posts.html" rel="" target="">
+ <span class="menu-text">Posts</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -144,9 +145,8 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#features" id="toc-features" class="nav-link active" data-scroll-target="#features">Features</a></li>
-  <li><a href="#position-in-the-python-ecosystem" id="toc-position-in-the-python-ecosystem" class="nav-link" data-scroll-target="#position-in-the-python-ecosystem">Position in the Python Ecosystem</a></li>
-  <li><a href="#documentation" id="toc-documentation" class="nav-link" data-scroll-target="#documentation">Documentation</a></li>
+  <li><a href="#app-description" id="toc-app-description" class="nav-link active" data-scroll-target="#app-description">App description</a></li>
+  <li><a href="#deployment" id="toc-deployment" class="nav-link" data-scroll-target="#deployment">Deployment</a></li>
   <li><a href="#repository" id="toc-repository" class="nav-link" data-scroll-target="#repository">Repository</a></li>
   </ul>
 </nav>
@@ -156,18 +156,16 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">VisuMorph</h1>
+<h1 class="title">2020 Mexico Census</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Image Manipulation</div>
-    <div class="quarto-category">Poetry</div>
-    <div class="quarto-category">Tests</div>
-    <div class="quarto-category">PyTest</div>
-    <div class="quarto-category">Cookiecutter</div>
-    <div class="quarto-category">OpenCV</div>
-    <div class="quarto-category">PIL</div>
-    <div class="quarto-category">Package Development</div>
-    <div class="quarto-category">PyPI</div>
-    <div class="quarto-category">ReadtheDocs</div>
+    <div class="quarto-category">Code</div>
+    <div class="quarto-category">Analysis</div>
+    <div class="quarto-category">Dashboard</div>
+    <div class="quarto-category">Visualization</div>
+    <div class="quarto-category">Actuarial</div>
+    <div class="quarto-category">Population</div>
+    <div class="quarto-category">Geojson</div>
+    <div class="quarto-category">RShiny</div>
   </div>
   </div>
 
@@ -176,19 +174,16 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
 <div class="quarto-title-meta">
 
     <div>
-    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Orix Au Yeung </p>
              <p>Marco Bravo </p>
-             <p>Atabak Alishiri </p>
-             <p>Shawn Hu </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">February 3, 2024</p>
+      <p class="date">April 24, 2024</p>
     </div>
   </div>
   
@@ -198,37 +193,24 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
 
 </header>
 
+<p>Target audience: Socioeconomic researchers and policy makers.</p>
 <div style="text-align: justify;">
-<p>VisuMorph is a powerful, user-friendly Python package designed for image manipulation. It simplifies image processing tasks, allowing users to effortlessly apply transformations and adjustments to their images. With its intuitive interface and a wide range of functionalities, VisuMorph is ideal for both hobbyists and professionals looking to enhance their digital imagery.</p>
+<p>The fourth demographic transition has reached many of the most modern and developed economies. However, for those countries that are still developing, the transition is not at a homogeneous stage across the country. In plain terms, the number of children couples are having, the number of elderly (as well as their mean ages) and internal migration vary from region to region as an indicator of access to health services, quality of life, level of development of the place, etc. This app allows the user to view the data set of <a href="https://www.inegi.org.mx/app/descarga/ficha.html?tit=326108&amp;ag=0&amp;f=csv">INEGI’s 2020 Mexican Population Census</a> to identify risk factors to anticipate and develop more effective policies. This dashboard allows visualizing different characteristics of the Mexican population with respect to its location.</p>
 </div>
-<section id="features" class="level2">
-<h2 class="anchored" data-anchor-id="features">Features</h2>
-<div style="text-align: justify;">
-<p>VisuMorph includes a variety of functions for image manipulation:</p>
-<ul>
-<li>Flipping(flip): Horizontally or vertically flip images, useful for creating mirror effects or correcting orientation.</li>
-<li>Rotating(rotate): Rotate images by a specified degree, supporting both clockwise and anticlockwise rotations.</li>
-<li>Hue Change(change_hue): Adjust the hue of images, allowing for color shifting and mood setting in visuals.</li>
-<li>Scaling(scale): Resize images, either uniformly or non-uniformly, without losing the essence of the visual content.</li>
-</ul>
+<section id="app-description" class="level3">
+<h3 class="anchored" data-anchor-id="app-description">App description</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="http://www.youtube.com/watch?v=390M7MEkWjI" title="2020 Mexico Census"><img src="http://img.youtube.com/vi/390M7MEkWjI/0.jpg" class="img-fluid figure-img"></a></p>
+<figcaption class="figure-caption">Dashboard Demo</figcaption>
+</figure>
 </div>
 </section>
-<section id="position-in-the-python-ecosystem" class="level2">
-<h2 class="anchored" data-anchor-id="position-in-the-python-ecosystem">Position in the Python Ecosystem</h2>
-<div style="text-align: justify;">
-<p>VisuMorph, while a robust tool for image manipulation, is designed primarily as an educational project for the 524 course in the Master of Data Science program. It serves as an introductory tool for those beginning their journey in data science and image processing. While it offers a range of functionalities, it is more limited in scope compared to professional-grade packages like PIL (Python Imaging Library) and OpenCV. These larger libraries offer a wider range of complex functionalities and are suited for industrial applications. However, VisuMorph stands out for its simplicity and ease of use, making it an excellent starting point for students and hobbyists looking to understand the basics of image manipulation in Python.</p>
-</div>
+<section id="deployment" class="level3">
+<h3 class="anchored" data-anchor-id="deployment"><a href="https://marcony1.shinyapps.io/2020_Mexico_Census/">Deployment</a></h3>
 </section>
-<section id="documentation" class="level2">
-<h2 class="anchored" data-anchor-id="documentation">Documentation</h2>
-<div style="text-align: justify;">
-<p>The full documentation including installation guides, example usages, and API references is hosted on ReadTheDocs and can be found <a href="https://visumorph.readthedocs.io/en/latest/">here</a>.</p>
-</div>
-<p><img src="visumorph.jpg" class="img-fluid"></p>
-<p><img src="documentation.jpg" class="img-fluid"></p>
-</section>
-<section id="repository" class="level2">
-<h2 class="anchored" data-anchor-id="repository"><a href="https://github.com/UBC-MDS/VisuMorph">Repository</a></h2>
+<section id="repository" class="level3">
+<h3 class="anchored" data-anchor-id="repository"><a href="https://github.com/Marcony1/2020_mexico_census">Repository</a></h3>
 
 
 </section>

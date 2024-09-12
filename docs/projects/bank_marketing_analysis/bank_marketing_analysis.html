@@ -7,12 +7,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Marco Bravo">
-<meta name="author" content="Nicole Bidwell">
-<meta name="author" content="Rafe Chang">
-<meta name="author" content="Sam Fo">
-<meta name="dcterms.date" content="2024-04-20">
+<meta name="author" content="Nasim Ghazanfari Nasrabadi">
+<meta name="author" content="Shizhe Zhang">
+<meta name="author" content="Celeste Zhao">
+<meta name="dcterms.date" content="2023-12-09">
 
-<title>Marco Bravo - Solar Savers</title>
+<title>Marco Bravo - Predicting Bank Marketing Success on Term Deposit Subscription</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -110,6 +110,10 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
     <a class="nav-link" href="../../projects.html" rel="" target="">
  <span class="menu-text">Projects</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../posts.html" rel="" target="">
+ <span class="menu-text">Posts</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -144,8 +148,7 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#dashboard-overview" id="toc-dashboard-overview" class="nav-link active" data-scroll-target="#dashboard-overview">Dashboard Overview</a></li>
-  <li><a href="#deployment" id="toc-deployment" class="nav-link" data-scroll-target="#deployment">Deployment</a></li>
+  <li><a href="#report" id="toc-report" class="nav-link active" data-scroll-target="#report">Report</a></li>
   <li><a href="#repository" id="toc-repository" class="nav-link" data-scroll-target="#repository">Repository</a></li>
   </ul>
 </nav>
@@ -155,15 +158,18 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Solar Savers</h1>
+<h1 class="title">Predicting Bank Marketing Success on Term Deposit Subscription</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Code</div>
+    <div class="quarto-category">Banking</div>
     <div class="quarto-category">Analysis</div>
-    <div class="quarto-category">Dashboard</div>
     <div class="quarto-category">Visualization</div>
-    <div class="quarto-category">Sunlight</div>
-    <div class="quarto-category">Geojson</div>
-    <div class="quarto-category">Dash</div>
+    <div class="quarto-category">Finance</div>
+    <div class="quarto-category">KNN</div>
+    <div class="quarto-category">Naive Bayes</div>
+    <div class="quarto-category">Feature Importance</div>
+    <div class="quarto-category">Decision Tree</div>
+    <div class="quarto-category">Docker</div>
+    <div class="quarto-category">Tests</div>
   </div>
   </div>
 
@@ -175,16 +181,16 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
     <div class="quarto-title-meta-heading">Authors</div>
     <div class="quarto-title-meta-contents">
              <p>Marco Bravo </p>
-             <p>Nicole Bidwell </p>
-             <p>Rafe Chang </p>
-             <p>Sam Fo </p>
+             <p>Nasim Ghazanfari Nasrabadi </p>
+             <p>Shizhe Zhang </p>
+             <p>Celeste Zhao </p>
           </div>
   </div>
     
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">April 20, 2024</p>
+      <p class="date">December 9, 2023</p>
     </div>
   </div>
   
@@ -194,20 +200,22 @@ gtag('config', 'G-XYECR0MZCR', { 'anonymize_ip': true});
 
 </header>
 
-<p>A dashboard application helping Canadian homeowners in solar panel purchasing decisions.</p>
 <div style="text-align: justify;">
-<p>❌ The Problem The global need to shift towards sustainable energy sources has been recognized for decades, but its urgency continues to escalate. At the consumer-level, this problem is compounded by the rise in inflation and challenging decisions required when purchasing items like solar panels.</p>
-<p>✅ Our Solution With this escalating inflation and growing environmental consciousness, consumers across Canada seek to save money where they can. Solar Savers, a user-friendly app, is designed to better equip homeowners in the decision-making process of purchasing solar panels for their home. With user’s location, electricity rates, and panel quality, Solar Savers allows users to see their potential electricity and financial savings. It provides the required knowledge to assess the value of investing in solar panels and facilitates the decision-making process overall.</p>
+<p>In this analysis, we attempt to build a predictive model aimed at determining whether a client will subscribe to a term deposit, utilizing the data associated with direct marketing campaigns, specifically phone calls, in a Portuguese banking institution.</p>
 </div>
-<section id="dashboard-overview" class="level3">
-<h3 class="anchored" data-anchor-id="dashboard-overview">Dashboard Overview</h3>
-<p><img src="solar_savers.gif" class="img-fluid"></p>
+<div style="text-align: justify;">
+<p>After exploring on several models (logistic regression, KNN, decision tree, naive Bayers), we have selected the logistic regression model as our primary predictive tool. The final model performs fairly well when tested on an unseen dataset, achieving the highest AUC (Area Under the Curve) of 0.899. This exceptional AUC score underscores the model’s capacity to effectively differentiate between positive and negative outcomes. Notably, certain factors such as last contact duration, last contact month of the year and the clients’ types of jobs play a significant role in influencing the classification decision.</p>
+<p>The dataset used in this project originates from the Bank Marketing dataset created by S. Moro, P. Rita and P. Cortez at Iscte - University Institute of Lisbon. This dataset is accessible through the UCI Machine Learning Repository and can be accessed <a href="https://archive.ics.uci.edu/dataset/222/bank+marketing">here</a>. Among the four available datasets, we have utilized <a href="https://archive.ics.uci.edu/static/public/222/data.csv">bank-full.csv</a> which contains all examples and 17 inputs. Each row in the dataset represents an individual client data including the personal details (e.g., age, occupation, loan status, etc.), information regarding their response to the marketing campaign (e.g., outcomes of the previous marketing campaign, number of contacts made during the current campaign, etc.), and the eventual subscription outcome for the term deposit.</p>
+</div>
+<section id="report" class="level2">
+<h2 class="anchored" data-anchor-id="report">Report</h2>
+<div style="text-align: justify;">
+<p>The final report can be found <a href="https://ubc-mds.github.io/bank-marketing-analysis/">here</a>.</p>
+</div>
+<p><img src="banking.jpg" class="img-fluid"></p>
 </section>
-<section id="deployment" class="level3">
-<h3 class="anchored" data-anchor-id="deployment"><a href="https://dsci-532-2024-9-solar-savers.onrender.com/">Deployment</a></h3>
-</section>
-<section id="repository" class="level3">
-<h3 class="anchored" data-anchor-id="repository"><a href="https://github.com/UBC-MDS/DSCI-532_2024_9_solar-savers?tab=readme-ov-file">Repository</a></h3>
+<section id="repository" class="level2">
+<h2 class="anchored" data-anchor-id="repository"><a href="https://github.com/UBC-MDS/bank-marketing-analysis">Repository</a></h2>
 
 
 </section>
