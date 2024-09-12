@@ -1,13 +1,21 @@
 ---
 title: "Solar Savers"
+description: |
+  A dashboard application helping Canadian homeowners in solar panel purchasing decisions.
 author: ["Marco Bravo", "Nicole Bidwell", "Rafe Chang", "Sam Fo"]
 date: "2024-04-20"
-categories: [Code, Analysis, Dashboard, Visualization, Sunlight, Geojson, Dash]
+categories: 
+- Code
+- Analysis
+- Dashboard
+- Visualization
+- Sunlight
+- Geojson
+- Dash
 image: "solar_savers.gif"
 resources: solar_savers.gif
 ---
 
-A dashboard application helping Canadian homeowners in solar panel purchasing decisions.
 
 
 <div style="text-align: justify;">

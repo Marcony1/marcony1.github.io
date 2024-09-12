@@ -1,5 +1,7 @@
 ---
 title: "VisuMorph"
+description: |
+  VisuMorph is a powerful, user-friendly Python package designed for image manipulation.
 author: ["Orix Au Yeung", "Marco Bravo", "Atabak Alishiri", "Shawn Hu"]
 date: "2024-02-03"
 categories: 

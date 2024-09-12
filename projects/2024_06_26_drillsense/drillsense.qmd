@@ -1,8 +1,20 @@
 ---
 title: "Project Drillsense"
+description: |
+  A dashboard application helping Rio Tinto identify global drilling trends and future excavation spots.
 author: ["Marco Bravo", "Aishwarya Nadimpally", "Anu Banga", "Weiran Zhao"]
 date: "2024-06-26"
-categories: [Code, Analysis, Dashboard, Visualization, Mining, Geojson, Prediction, Machine Learning, Time Series, Dash]
+categories: 
+- Code
+- Analysis
+- Dashboard
+- Visualization
+- Mining
+- Geojson
+- Prediction
+- Machine Learning
+- Time Series
+- Dash
 image: "drillsense.gif"
 resources: [drillsense.gif, contributions.png, project_org.jpg]
 ---

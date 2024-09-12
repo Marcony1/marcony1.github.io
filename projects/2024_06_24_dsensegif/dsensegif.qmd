@@ -1,8 +1,13 @@
 ---
 title: "Dsensegif"
+description: |
+  Mini auxiliary project that helps to generate QR codes that direct the user to images that are already hosted in a website/repository.
 author: "Marco Bravo"
 date: "2024-06-24"
-categories: [Code, Manipulation, QR]
+categories: 
+- Code
+- Manipulation
+- QR
 image: "dsensegif.jpg"
 ---
 <div style="text-align: justify;">
