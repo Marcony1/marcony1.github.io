@@ -30,12 +30,14 @@ You can download my resume [here](resume.pdf).
 ### Data Science Consultant
 **Rio Tinto Group – MDS Capstone Project, Vancouver, BC**  
 *April 2024 – June 2024*  
+
 - Developed a global mining trends dashboard using Python, Dash, and GIS; integrated Random Forest ML algorithms to predict future drill holes, achieving 20% accuracy in predicting next drilling locations by commodity and region. [Project Link](bit.ly/drillsense)  
 - Presented insights to the board of directors, assisting the development of investment strategies based on predictive modeling.  
 
 ### Data Science Consultant
 **DataKnow Consulting, Mexico City, MX**  
-*August 2022 – August 2023*  
+*August 2022 – August 2023* 
+
 - Optimized fraud detection models for Grupo Bancolombia using clustering algorithms (k-means, k-prototypes, DBSCAN), improving high-risk customer identification accuracy by 25%. [Project Link](bit.ly/AML-TF)  
 - Developed an ETL data pipeline to extract data from Cloudera Impala, perform EDA, analyze data quality, and transform data using clustering models. The pipeline loads results by selecting the best model, characterizing clusters using OpenAI API, and auto-generating documentation, reducing processing time by 50%.  
 - Built an ETL pipeline for AstraZeneca using PyArrow to extract data from Redshift (SQL), transform it with clustering models for insights into medicine sales and interactions, and load the results into Power BI, reducing processing time by 30%.  
@@ -45,6 +47,7 @@ You can download my resume [here](resume.pdf).
 ### Assistant Teacher | Team Leader | Co-Delegate
 **Olimpiada Mexicana de Matemáticas, Puebla, Mx**  
 *December 2015 – August 2023*  
+
 - Instructed advanced mathematics courses and master classes for national math competition contestants, contributing to a 20% improvement in problem-solving accuracy among participants, through engaging and in-depth training sessions.
 - Led student teams in national and regional competitions, effectively managing travel logistics and ensuring participant readiness, resulting in a 98% satisfaction rate among team members and organizers.
 - Organized and coordinated regional events for the Olympiad, delivering seamless event logistics and enhancing participant experiences with a 4.9/5 average event satisfaction rating.
@@ -53,6 +56,7 @@ You can download my resume [here](resume.pdf).
 ### Lecturer
 **Universidad de las Américas Puebla, Puebla, Mx**  
 *January 2023 – May 2023*  
+
 - Empowered actuarial students to build technical programming skills in Excel, VBA, MySQL, and optimization, resulting in 85% of students demonstrating proficiency in data handling and automation tasks, by delivering hands-on coursework and real-world applications in Actuarial Programming Tools.
 - Enhanced students' communication and presentation abilities, improving clarity and confidence in presenting technical findings, by incorporating targeted sessions on effective presentation techniques and collaborative programming through GitHub.
 - Strengthened students’ collaborative programming skills, evidenced by a 4.8/5 course satisfaction rating for the GitHub module, by integrating group projects that fostered teamwork and version control practices essential for actuarial and data science roles.
@@ -60,6 +64,7 @@ You can download my resume [here](resume.pdf).
 ### Analyst
 **Indra Minsait Business Consulting – Financial Services Division, Mexico City, MX**  
 *February 2022 – July 2022*  
+
 - Validated and reconciled cross-currency swaps and hedging models using Monte Carlo Simulation and Black-Scholes models.  
 - Automated IFRS 9-compliant accounting workflows with VBA, Murex, and S/4 HANA, reducing processing times by 80%.  
 - Conducted reserve calculations and ensured compliance with Mexican National Banking and Securities Commission (CNBV) regulations for Banorte Bank.  
@@ -67,6 +72,7 @@ You can download my resume [here](resume.pdf).
 ### Analyst (Internship)
 **Mexican Railways National Museum, Puebla, MX**  
 *June 2019 – March 2020*  
+
 - Led survey analyses using R and RShiny, providing detailed insights into tourist demographics and satisfaction, which informed event planning for 20+ museum events and collaborations.
 - Automated survey data collection with VBA, improving data capture efficiency by 50% and achieving a visitor rating of 4.5/5.
 - Developed R scripts to forecast budgets with 90% confidence intervals, enhancing financial planning accuracy.
@@ -74,22 +80,26 @@ You can download my resume [here](resume.pdf).
 ## Personal Projects
 
 **Smart Home Automation with Home Assistant and AWS** (2021)  
-[Presentation](https://bit.ly/TalkHA) | [Blog](https://bit.ly/BlogHA)  
+[Presentation](https://bit.ly/TalkHA) | [Blog](https://bit.ly/BlogHA) 
+
 - Created an Alexa-integrated automation system using Raspberry Pi and AWS Lambda for device control.  
 - Shared insights in blog posts and talk presentations.
 
 **Solar Savers** (2024)  
 [GitHub Repository](https://bit.ly/SolarSvrs)  
+
 - Developed a Python-based GIS dashboard using geospatial data to help Canadian homeowners assess solar panel investments.  
 - Calculated location-specific energy and financial savings.
 
 **2020 Mexico Census** (2024)  
 [GitHub Repository](https://bit.ly/MxCensus)  
+
 - Built an R Shiny GIS dashboard visualizing regional demographics from INEGI’s 2020 Mexican Census.  
 - Aimed to assist researchers and policymakers in analyzing geographic disparities in health, migration, and quality of life indicators.
 
 **Predicting Bank Marketing Success on Term Deposit Subscription** (2023)  
 [GitHub Repository](https://bit.ly/BankPred)  
+
 - Developed KNN, Naïve Bayes, Decision Tree, and Logistic Regression models.  
 - Achieved a 0.899 AUC with Logistic Regression through resampling and feature engineering.  
 - Delivered high precision and recall in predicting customer subscriptions.
@@ -97,6 +107,7 @@ You can download my resume [here](resume.pdf).
 ## Awards
 
 **Math Olympiad Winner, Mexican Mathematical Olympiad**  
-2012 - 2015  
+2012 - 2015
+
 - Junior Olympiad Bronze Medal Winner in 2012 and 2013  
 - Senior Olympiad Finalist in 2014 and 2015  
